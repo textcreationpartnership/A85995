@@ -1,0 +1,1317 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animal cornutum, or The horn'd beast: wherein is contained, 1 a brief method of the grounds of astrology, 2 a description of each planet and sign, 3 the way to erect a figure of heaven, 4 a narrative of what visible eclipses (both of sun and moon) will appear in our horizon, for these 15 years yet to come, with the month, day, and hour when they happen. Whereunto is annexed, an examination of a spurious pamphlet (intituled, Astrology proved to be the doctrine of dæmons) laying open the antagonist's malice, and folly; with a refutation of his errors, by an astrological example, in figure, and judgement. / Composed for the benefit of all those that are desirous to exercise themselves herein, by J. Gadbury, a lover of the celestial sciences.</title>
+            <author>Gadbury, John, 1627-1704.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 119 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85995</idno>
+            <idno type="STC">Wing G74</idno>
+            <idno type="STC">Thomason E1495_2</idno>
+            <idno type="STC">ESTC R208533</idno>
+            <idno type="EEBO-CITATION">99867479</idno>
+            <idno type="PROQUEST">99867479</idno>
+            <idno type="VID">119792</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119792)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 191:E1495[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animal cornutum, or The horn'd beast: wherein is contained, 1 a brief method of the grounds of astrology, 2 a description of each planet and sign, 3 the way to erect a figure of heaven, 4 a narrative of what visible eclipses (both of sun and moon) will appear in our horizon, for these 15 years yet to come, with the month, day, and hour when they happen. Whereunto is annexed, an examination of a spurious pamphlet (intituled, Astrology proved to be the doctrine of dæmons) laying open the antagonist's malice, and folly; with a refutation of his errors, by an astrological example, in figure, and judgement. / Composed for the benefit of all those that are desirous to exercise themselves herein, by J. Gadbury, a lover of the celestial sciences.</title>
+                  <author>Gadbury, John, 1627-1704.</author>
+               </titleStmt>
+               <extent>[10], 23, [3], 47, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Larnar, and are to be sold at the Blackmores head neer Fleet-bridge,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Envy dissected, or, An examination of a spurious pamphlet (intituled, Astrology proved to be the doctrine of dæmons, &amp;c.)" has caption title and separate pagination; register is continuous.</note>
+                  <note>Annotation on Thomason copy: "Feb: 13"; the 4 in the imprint date has been crossed out and replaced with a "3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brayne, John. --  Astrology proved to be the doctrine of dæmons.</term>
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119792:1"/>
+            <pb facs="tcp:119792:1" rendition="simple:additions"/>
+            <p>
+               <hi>Animal Cornutum,</hi> OR The Horn'd Beaſt:</p>
+            <p>Where in is contained<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,</p>
+            <p n="1">1 <hi>A brief Method of the grounds of Aſtrology,</hi>
+            </p>
+            <p n="2">2 <hi>A Deſcription of each Planet and Sign,</hi>
+            </p>
+            <p n="3">3 <hi>The way to erect a Figure of Heaven,</hi>
+            </p>
+            <p n="4">4 <hi>A Narrative of what viſible Eclipſes (both of Sun and Moon) will appear in our Horizon, for theſe</hi> 15 <hi>years yet to come, with the month, day, and hour when they happen.</hi>
+            </p>
+            <p>
+               <hi>Whereunto is annexed,</hi>
+            </p>
+            <p>An Examination of a ſpurious Pamphlet (intituled, <hi>Aſtrology proved to be the doctrine of</hi> Dae<g ref="char:EOLhyphen"/>mons) laying open the Antagoniſt's malice, and folly; with a refutation of his Errors, by an Aſtro<g ref="char:EOLhyphen"/>logical Example, in Figure, and Judgement.</p>
+            <p>Compoſed for the benefit of all thoſe that are deſirous to exerciſe themſelves herein,</p>
+            <p>
+               <hi>By</hi> J. Gadbury, <hi>a lover of the Celeſtial Sciences.</hi>
+            </p>
+            <p>Card. 1 Seg. Apho. 5.</p>
+            <p>
+               <hi>Stulti negligunt &amp; contemnunt Aſtrologiam, qui contra<g ref="char:EOLhyphen"/>dicit ambitioſus eſt, qui maledicit, fatuus.</hi>
+            </p>
+            <p>1 Cor. 6.5.</p>
+            <p>
+               <hi>I ſpeak it to your ſhame, is it ſo, that there is not a wiſe man amongſt you?</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Larnar,</hi> and are to be ſold at the <hi>Blackmores</hi> head neer <hi>Fleet-bridge,</hi> 1654.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:119792:2"/>
+            <head>In praiſe of the AUTHOR.</head>
+            <lg>
+               <l>A<hi>Strology is underprop'd</hi>
+               </l>
+               <l>
+                  <hi>By thy diviner pen,</hi>
+               </l>
+               <l>
+                  <hi>And Tares from Wheat haſt thou here cropt,</hi>
+               </l>
+               <l>
+                  <hi>God ſend us more ſuch men.</hi>
+               </l>
+               <l>
+                  <hi>Hypocriſie thou do'ſt unveil,</hi>
+               </l>
+               <l>
+                  <hi>And lay'ſt it ope to view,</hi>
+               </l>
+               <l>
+                  <hi>The Envious man thou do'ſt aſſail,</hi>
+               </l>
+               <l>
+                  <hi>And ſhew'ſt what is his due.</hi>
+               </l>
+               <l>
+                  <hi>Let Envy rage, and Malice bark</hi>
+               </l>
+               <l>
+                  <hi>At this thy Art ſo high,</hi>
+               </l>
+               <l>
+                  <hi>The wiſe will cheriſh this thy Lark,</hi>
+               </l>
+               <l>
+                  <hi>What though fools paſs it by?</hi>
+               </l>
+               <l>
+                  <hi>What ſhall I ſpeak unto thy praiſe</hi>
+               </l>
+               <l>
+                  <hi>For this rare work of thine,</hi>
+               </l>
+               <l>
+                  <hi>Crowned art thou with thine own Bays,</hi>
+               </l>
+               <l>
+                  <hi>Not with theſe words of mine.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Steven Rogers.</signed>
+            </closer>
+            <pb facs="tcp:119792:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:119792:3"/>
+            <head>To his Ingenious Friend, the Author of this Work.</head>
+            <lg>
+               <l>
+                  <hi>NOr Gold, nor Gems, nor any thing of worth,</hi>
+               </l>
+               <l>
+                  <hi>Can I beſtow, to ſet thy labours forth,</hi>
+               </l>
+               <l>
+                  <hi>Only ſome rude (at leaſt) unpoliſh'd lines,</hi>
+               </l>
+               <l>
+                  <hi>To feed the giddy humors of the times,</hi>
+               </l>
+               <l>
+                  <hi>Who would diſmember the</hi>
+                  <note n="‡" place="margin">The harmo<g ref="char:EOLhyphen"/>ny of the uni<g ref="char:EOLhyphen"/>verſe.</note> 
+                  <hi>Creator's glory,</hi>
+               </l>
+               <l>
+                  <hi>Of which (dear friend) thou'ſt penn'd an ample story.</hi>
+               </l>
+               <l>
+                  <hi>Let</hi> Zoilus <hi>ſtorm, let</hi> Momus <hi>envy thee,</hi>
+               </l>
+               <l>
+                  <hi>Thou'ſt charm'd their follies here ſufficiently.</hi>
+               </l>
+               <l>
+                  <hi>Rare ſoul, go on, let not their louder threats</hi>
+               </l>
+               <l>
+                  <hi>Silence thy pen, 'tis baſeneſs fear begets:</hi>
+               </l>
+               <l>
+                  <hi>Thou haſt a Milk-white</hi> This by, <hi>that's within thee,</hi>
+               </l>
+               <l>
+                  <hi>will bear thee up, when all the world's agen thee.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>T. Perkins, Philo-Math.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To his loving Friend the Author.</head>
+            <lg>
+               <l>
+                  <hi>LEt</hi> Momus <hi>carp, and</hi> Zoilus <hi>tear,</hi>
+               </l>
+               <l>
+                  <hi>Thou art got ſo high, thou needſt not fear</hi>
+               </l>
+               <l>
+                  <hi>Their Envy, ſince thou art</hi>
+               </l>
+               <l>
+                  <hi>Above their reach, and no part</hi>
+               </l>
+               <l>
+                  <hi>Of their looſe Directory can tell,</hi>
+               </l>
+               <l>
+                  <hi>Whether thy knowledge is of Heaven, or Hell.</hi>
+               </l>
+               <l>
+                  <hi>Yet they'll continue bawling: but's no matter,</hi>
+               </l>
+               <l>
+                  <hi>Let Jack-daws prate, and Mag-pies chatter:</hi>
+               </l>
+               <l>
+                  <hi>Go thou on ſtoutly, that the world may ſee</hi>
+               </l>
+               <l>
+                  <hi>Thy ſober Truth conſute their Hereſie.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>T.B.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119792:3"/>
+            <head>To the Reverend Fa<g ref="char:EOLhyphen"/>ther in Presbytery, Mr. <hi>Thomas Gata<g ref="char:EOLhyphen"/>ker, B.D. — I. Gad<g ref="char:EOLhyphen"/>bury</hi> dedicates theſe his virgin labours.</head>
+            <opener>
+               <salute>Grave Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg> Know no one ſo worthy of (ſo fit for) this my dedica<g ref="char:EOLhyphen"/>tion, as your ſelf; it is the u<g ref="char:EOLhyphen"/>ſual way of thoſe that make books, to chuſe a Patron that doth affect the Subject, but contrary to that cuſtom, have I ſhrouded this my little Lark, under your protection, not doubting but you'l trim his feathers, (whether be have need or not;) what though you have proſeſſed your ſelf an utter e<g ref="char:EOLhyphen"/>nemy to the Subject I treat of, yet my more Chriſtian thoughts will not ſuffer me to con<g ref="char:EOLhyphen"/>clude, the Sun ſhall ſet, before your wrath be over; you being a Miniſter of Antiquity can<g ref="char:EOLhyphen"/>not
+<pb facs="tcp:119792:4"/>be unacquainted with the Apoſtles, ſaying, let not the Sun goe down upon your wrath, it was the vigilancy of</hi> Anthony <hi>the great (who when he had ſeen the Souldiers qarrel<g ref="char:EOLhyphen"/>ling one with another, not to ſuffer them to part enemies, he would perſwade them with theſe words of St.</hi> Paul, Sol non occidat ſuper iracundiam veſtram.)</p>
+            <p>
+               <hi>Charity will not ſuffer me to ſpeak beyond the bounds of Chriſtianity, in whoſe bounds I hope you are confined; it is true, you did (in a rage) rail againſt Aſtrologie, and its harm<g ref="char:EOLhyphen"/>leſſe Profeſſors,
+<note place="margin">Card. Seg. 1. Aphor. 24.</note> who never did you wrong, mean while, you came under</hi> Cardans <hi>laſh,</hi> viz. Stulti negligunt &amp; contemnunt A<g ref="char:EOLhyphen"/>ſtrologiam, qui contradicit, ambitioſus eſt, qui maledicit, fatuus, <hi>but not long after, (the galld horſe back being toucht muſt wince) when we thought your rage to be over, in an unadviſed manner did you ſhow your ſelf to the world in a more ugly ſhape than ever, ne<g ref="char:EOLhyphen"/>ver conſidering,</hi> Coelum eſt inſtumentum, quo inferiora agit, impellit, regitque, <hi>the Heaven is Gods inſtrument whereby he wor<g ref="char:EOLhyphen"/>keth, enforceth, and governeth all things; but what your madneſſe could not vent in your clumſey Annotations, you thought your malice ſhould in your buzzardly Vindications, with thanks to Mr.</hi> Calamy <hi>for allowing them the preſſe.</hi>
+            </p>
+            <p>
+               <hi>Is it not written, that the Prieſts lipps ſhould preſerve knowledg,</hi>
+               <note place="margin">Seg. Card. A<g ref="char:EOLhyphen"/>phor. 146.</note> 
+               <hi>why ſhould you then, being a Prieſt, instead of ſo doing, en<g ref="char:EOLhyphen"/>deavour the contrary? hear</hi> Cardan <hi>again;</hi> Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i Artem aliquam deſtruit, longe dete<g ref="char:EOLhyphen"/>rior
+<pb facs="tcp:119792:4"/>eſt imperito, nec vacat mens illius ma<g ref="char:EOLhyphen"/>litia, deſidia &amp; ignorantia.</p>
+            <p>
+               <hi>Certainly, had you the conſideration of hu<g ref="char:EOLhyphen"/>manity or Chriſtianity before your eyes, you could never have thus tranſgreſs'd your bounds, ſo far, as to</hi>
+               <note n="*" place="margin">The Godly man is like God, kind to all, lo<g ref="char:EOLhyphen"/>ving to all, mer<g ref="char:EOLhyphen"/>ciful to all, even to the un<g ref="char:EOLhyphen"/>godly. <hi>Mat.</hi> 6.</note> 
+               <hi>rail at, ſpeak evilly of, the Perſon, Principle, or practice of any one, who bears Gods image, as you have in that ever-envious Vindication of yours; I am ſure Chriſt is no precedent for you, in this, and he ought to be the precedent of Gospel Mi<g ref="char:EOLhyphen"/>niſters) nay</hi> Gamaliel <hi>(though a Heathen Doctor) was fuller of humanity. See</hi> Acts 5.</p>
+            <p>
+               <hi>And now Sir let me tell you, by your wri<g ref="char:EOLhyphen"/>ting thus for oſtentation, you have bel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hed forth ſuch horrid imprecations, which have wholy extenuated your veneration, in ſo high a manner, that were you young again, your writing nor preaching could never gain your loſt commendation, your Pen hath made you ſo contemptible.</hi>
+            </p>
+            <p>
+               <hi>What ſcurrilous language hath dropt from your Pen</hi>
+               <note n="*" place="margin">St. Paul came not with a rod but in the ſpi<g ref="char:EOLhyphen"/>rit of meekneſs. <hi>Caveat Presbyt. Ioh.</hi> 8.</note> 
+               <hi>againſt men you know not, as wi<g ref="char:EOLhyphen"/>zards, witches, dealers with the Devil, hel<g ref="char:EOLhyphen"/>hounds, Sicophants, with a thouſand more non-Gospel phraſes, which I ſhould have concluded had dropt from tht mouth of one of hells fire-brands, and not from the pen of a Gospel-Miniſter, had not I ſeen your name to the Book?</hi>
+            </p>
+            <p>
+               <hi>Suppoſe ſome Aſtrologers had erred, were you the man that was ſo righteous as durſt to fling a ſtone. O Hypocrite pluck out firſt the beam, and then may you eſpie the more
+<pb facs="tcp:119792:5"/>the better, what if the Art happen to be abu<g ref="char:EOLhyphen"/>ſed by ſome</hi> ſpurii (non veri ſilii) artis, <hi>is your Divinity wholy free? nay, it hath the ſame nay the very ſame fortune, and here the common proverb may well be noted,</hi> viz. All
+<note n="*" place="margin">Note, Profeſ<g ref="char:EOLhyphen"/>ſors of a<g ref="char:EOLhyphen"/>ny Sci<g ref="char:EOLhyphen"/>ence the moſt guil<g ref="char:EOLhyphen"/>ty, elſe why are Chriſti<g ref="char:EOLhyphen"/>ans now a days led into ſuch doubtful diſputati<g ref="char:EOLhyphen"/>ons, when love and peace are the path<g ref="char:EOLhyphen"/>way to Heaven? <hi>Rom.</hi> 14.</note> Sciences have their imperfections: <hi>ſome pretended Di<g ref="char:EOLhyphen"/>vines are not ſo good as they ſhould, that makes the Gospel thus neglected, which gave occaſi<g ref="char:EOLhyphen"/>on to Mr.</hi> Powell <hi>(in his Sermon to the Parlia<g ref="char:EOLhyphen"/>ment) to ſay, that generally they minded their wages more than their work.</hi>
+            </p>
+            <p>
+               <hi>Nay, I believe, all pretenders to Aſtrologie are not ſo honeſt, as I could wiſh; but what is this to the purpoſe, are all to be blamed for ſome mens Errors? no wiſe man will ſo de<g ref="char:EOLhyphen"/>termine; it may be upon better conſideration, you may ſee your error, and be ſorry, to the end you may, I will give you notice of one ſhrewd ſlip, in your Vindication, in p.</hi> 57. <hi>you give us to underſtand, you made your a<g ref="char:EOLhyphen"/>bode at the Houſe of a virtuous Gentlewoman in</hi> Eſſex, <hi>when you were young, whoſe Hus<g ref="char:EOLhyphen"/>band did (as you pretend) invite you thither to teach him Hebrew, yet in p.</hi> 33. <hi>you pro<g ref="char:EOLhyphen"/>feſſe to have but little skill therein your ſelf; were I your Antagoniſt, I ſhould make this conſtruction,</hi> viz. <hi>ſeeing the contradiction in your own words, that your reſidence there, was not ſo much for the Gentlemans inſtructi<g ref="char:EOLhyphen"/>on, as for the virtuous Ladies (and your own) ſatisfaction, for ſure I am, the un<g ref="char:EOLhyphen"/>hallowed Prieſts were no more privileged from the ſin of Lecherie, than was the righte<g ref="char:EOLhyphen"/>ous</hi> Iudah, <hi>ſee</hi> Gen. 38. <hi>in earneſt, what e<g ref="char:EOLhyphen"/>ver elſe you had put in the room, you had
+<pb facs="tcp:119792:5"/>better have kept this out; but its not my work to teach you, the overſight it ſelf may make you more careful hereafter.</hi>
+            </p>
+            <p>
+               <hi>Now I come to tell you the reaſon of my de<g ref="char:EOLhyphen"/>dication, and that's this, all along in your Vindication you deſire to be better inform'd concerning Aſtrologie, that you might not die unſatisfied (you being antient) I have taken pains in the ſubſequent trackt, (preſuming Mr.</hi> Lillye's <hi>Introduction never came to your hand) to fulfill your deſires, if you deem it (by reaſon of brevity) inſufficient, I refer you to Mr.</hi> Lilly's <hi>Introduction, where (unleſſe</hi> Pharaoh's <hi>curſe hangs on you) you may be ful<g ref="char:EOLhyphen"/>ly informed of the Principles of this much-ho<g ref="char:EOLhyphen"/>noured (but by you despiſed) Art. I conclude, deſiring you (if your malice will not permit you read this little tract) yet (ſeeing 'tis yours by dedication) lay it up in your ſtudy among your other books, among whom I aſſure you, you have none (for I think you had never the like honour done you) dedicated with more good will;
+<note place="margin">Dyoniſ.</note> that you may now caſt off your envious robes, they being like</hi> Apollo's <hi>cloath of gold cloathing,</hi> nec eſtati nec hyemi veſtis haec convenit, <hi>not ſit to be worn neither in Sum<g ref="char:EOLhyphen"/>mer nor winter, ſhall be the earneſt deſire of him, who upon the like occaſion will be ſure to make uſe of you for a Patron.</hi>
+            </p>
+            <closer>
+               <signed>I.G.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119792:6"/>
+            <pb n="1" facs="tcp:119792:6"/>
+            <head>THE GROUNDS OF Chriſtian Aſtrology.</head>
+            <p>
+               <seg rend="decorInit">I</seg>F ever thou intend the ſtudy of Aſtrology, thou muſt uſe a Method, and for the more regular proceeds herein thou muſt firſt know, that there are ſeven Planets, which are called (<hi>ſicllae erraticae</hi>) or wandring Stars, and Aſtrolo<g ref="char:EOLhyphen"/>gers do characterize them thus, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>♄ <hi>Saturn,</hi>
+               </item>
+               <item>♃ <hi>Jupiter,</hi>
+               </item>
+               <item>♂ <hi>Mars,</hi>
+               </item>
+               <item>☉ <hi>the Sun,</hi>
+               </item>
+               <item>♀ <hi>Venus,</hi>
+               </item>
+               <item>☿ <hi>Mercury</hi>
+               </item>
+               <item>
+                  <g ref="char:Moon">☽</g> 
+                  <hi>Luna.</hi>
+               </item>
+               <item>♌ <hi>Drag. head.</hi>
+               </item>
+               <item>☋ <hi>Drag. tayl.</hi>
+               </item>
+            </list>
+            <p>There are alſo 12 ſignes through which theſe Planets continually move, and they <gap reason="illegible" resp="#UOM" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:119792:7"/>
+            <pb n="1" facs="tcp:119792:7"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:119792:8"/>
+            <list>
+               <item>♈ <hi>Aries</hi>
+               </item>
+               <item>♉ <hi>Taurus</hi>
+               </item>
+               <item>♊ <hi>Gemini</hi>
+               </item>
+               <item>♋ <hi>Cancer</hi>
+               </item>
+               <item>♌ <hi>Leo</hi>
+               </item>
+               <item>♍ <hi>Virgo</hi>
+               </item>
+               <item>♎ <hi>Libra</hi>
+               </item>
+               <item>♏ <hi>Scorpio</hi>
+               </item>
+               <item>♐ <hi>Sagittary</hi>
+               </item>
+               <item>♑ <hi>Capricorn</hi>
+               </item>
+               <item>♒ <hi>Aquarius</hi>
+               </item>
+               <item>♓ <hi>Piſces.</hi>
+               </item>
+            </list>
+            <p>Planets in theſe ſignes make their aſ<g ref="char:EOLhyphen"/>pects one to another; before I tell you how, it's requiſit to tell you how you may know them: there are 5 aſpects, <hi>viz.</hi> ☌, ⚹, <g ref="char:quadrine">□</g>, <g ref="char:trine">△</g>, ☍. A ☌ <hi>Conjunction,</hi> (though impro<g ref="char:EOLhyphen"/>perly called an aſpect) is when Planets are in one ſign, degree, and minute.</p>
+            <p>⚹, a <hi>Sextile</hi> is 60 degrees diſtant, or two ſignes, as ♂ in the 10th of ♈, <g ref="char:Moon">☽</g> in the 10th of ♊.</p>
+            <p>
+               <g ref="char:quadrine">□</g>, a <hi>Square,</hi> or Quadrate, is 90 degrees diſtant, or 3 ſignes, as ♂ in the 10th of ♈, <g ref="char:Moon">☽</g> in the 10th of ♋.</p>
+            <p>
+               <g ref="char:trine">△</g>, a <hi>Trine</hi> is 120 degrees diſtant, as ♂ in the 10th of ♈, and <g ref="char:Moon">☽</g> in the 10th of ♌.</p>
+            <p>An ☍ <hi>Oppoſition</hi> is when Planets are 180 degrees diſtant, as ♂ in 10 degrees of ♈, an <g ref="char:Moon">☽</g> in 10 degrees of ♎.</p>
+            <p>Aſtrologers tell us (and that truly) that theſe aſpects are of contrary qualities, which you may thus know:</p>
+            <p>A <hi>Conjunction</hi> with the good is good, and with the bad is bad likewiſe.</p>
+            <p>A ⚹ <hi>Sextile</hi> is always noted to be good; but</p>
+            <p>A <g ref="char:quadrine">□</g> all Aſtrologers conclude an aſpect of imperfect Enmitie, yet with other helps, may be good.</p>
+            <pb n="3" facs="tcp:119792:8"/>
+            <p>A <g ref="char:trine">△</g> 
+               <hi>Trine</hi> is an aſpect of perfect amity, love, and concord.</p>
+            <p>A ☍ <hi>Opprſition</hi> never doth good, without a miracle, for in my practice I find it to be the worſt of aſpects.</p>
+            <p>There are many other things to be no<g ref="char:EOLhyphen"/>ted, as the Planets dignities, debilities, but I ſhall in order take occaſion to ſpeak of them, before I have done; I muſt ſhew you now the uſe of an <hi>Ephemeris,</hi> which is no more than a Diarie, or Day-book, which contains the Planets motions both in lon<g ref="char:EOLhyphen"/>gitude and latitude, as alſo the Dragons head: Uſually you ſhall find ten Columns in the left-hand page of an <hi>Ephemeris,</hi> the firſt contains the dayes of the month, the ſecond the dayes of the week, the 3d the motion of ♄ <hi>Saturn,</hi> the 4th the motion of ♃, the 5th of ♂, the 6th of ☉, the 7th of ♀, the 8th of ☿, the 9th of <g ref="char:Moon">☽</g>, the 10th of <hi>Dragons head.</hi> As the latitudes of the Planets vary, ſo you ſhall find them by theſe Letters, M. S. D. A. which are to be underſtood thus, A Planets latitude noted with M. A. tels you he hath Meridional or South latitude, Aſcending; If S. A. then tels you he hath Septentrional or North latitude, Aſcending. But if you find with M. or S. the letter D. affixed, it denotes the Planet is then Deſcending in lati<g ref="char:EOLhyphen"/>tude.</p>
+            <p>To know what latitude a Planet hath, 'tis but caſting your eye to the foot of the page, and there you may ſee it for every tenth day. Thus much briefly, for the ex<g ref="char:EOLhyphen"/>planation
+<pb n="4" facs="tcp:119792:9"/>of the left-hand page of an <hi>Ephe<g ref="char:EOLhyphen"/>meris,</hi> it being no intention of mine, to write an Introduction to Aſtrology, elſe I ſhould have been more copious.</p>
+            <p>
+               <hi>The right-hand page unfolded.</hi>
+            </p>
+            <p>There are 8 Columns in this page, the firſt is fitted for the days of the month, the other 7 are ordained for the containing the aſpects of the <g ref="char:Moon">☽</g> Moon to Planets, and the Planets aſpects among themſelves, as over the 6 equal Columns you ſhall ſee written <hi>The Lunar aſpects,</hi> and over the laſt great Column you will find theſe words <hi>viz. The Planets Mutual aspects.</hi> You muſt know that Aſtronomers begin their day at noon, and end the next day at noon; ſo that what aſpects do fall out between thoſe times, you ſhall find under the reſpective Columns: for inſtance,</p>
+            <p>In Mr. <hi>Lilly</hi>'s <hi>Ephemeris</hi> 1654. in the 6. Column I find ♀ <hi>Venus</hi> placed, and the firſt day of <hi>January</hi> the <g ref="char:Moon">☽</g> 
+               <hi>Moon</hi> ſalutes ♀ by a friendly <g ref="char:trine">△</g> 
+               <hi>Trine,</hi> which by the figure 10 I find to fall out at 10 a clock at night, or 10 h. <hi>P. M.</hi> for Aſtronomers reckon al<g ref="char:EOLhyphen"/>ways from noon ſo many hours.</p>
+            <p>Again, The 6 day of <hi>January</hi> by the ſame <hi>Ephemeris,</hi> I find under the Planets mutual aſpects this, ☌ ☉ ☿ 19. which tels me, that on that day the <hi>Sun</hi> and <hi>Mercury</hi> are in <hi>Conjunction</hi> 19 h. <hi>P. M.</hi> or 19 hours after noon, which doth not fall out before 7 a clock the next day; thus may you do in all the reſt, and never fail, if the Aſtrono<g ref="char:EOLhyphen"/>mer hath rightly computed them.</p>
+            <pb n="5" facs="tcp:119792:9"/>
+            <p>The Planets are ſometimes ſaid to be oriental, and other times ſaid to be occi<g ref="char:EOLhyphen"/>dental, which you may find by the next line under the Planets Characters, as in the aforeſaid <hi>Ephemeris</hi> you have under ♄ theſe letters, <hi>orient.</hi> which tells me ♄ is then oriental. Under <hi>Jupiter</hi> ♃ are theſe Letters, <hi>occid.</hi> which denote ♃ to be occi<g ref="char:EOLhyphen"/>dental. The <hi>Sun</hi> hath never any of theſe titles, becauſe it is by the Planets motions round the <hi>Sun</hi> that they become ſo; for a Planet riſing before the <hi>Sun</hi> is alwayes ori<g ref="char:EOLhyphen"/>ental, and a Planet ſetting after the <hi>Sun</hi> is termed occidental.</p>
+            <p>An ingenious head-peice will eaſily find out the reſt, if he be once verſed in this.</p>
+            <p>Having thus far directed you, you will now come to want a Table of Houſes, without which you can never learn to erect a Figure, and that you may find in the aforeſaid <hi>Ephemeris,</hi> which contains 12 great pages, the firſt of which is known by ☉ <hi>Sol</hi> in ♈ <hi>Aries,</hi> the next ☉ in ♉, and ſo till you come to ♓ in order, and by this means you may learn thus to erect a Figure.</p>
+            <pb n="6" facs="tcp:119792:10"/>
+            <div type="part">
+               <head>What a figure is.</head>
+               <figure>
+                  <figDesc>celestial figure</figDesc>
+               </figure>
+               <p>A Celeſtial figure (which ſheweth the face of Heaven to our view <hi>in plane</hi>) was wont to be erected diverſly of Aſtrono<g ref="char:EOLhyphen"/>mers, ſome bagan at the aſcendant, and divided the Zodiack into 12 equal parts, by circles meeting in the poles of the Zo<g ref="char:EOLhyphen"/>diack; others divide the Equinoctial into 12 equal parts, by imaginary Circles drawn from the Poles of the world; other ſome divide the vertical Circle of the Eaſt
+<pb n="7" facs="tcp:119792:10"/>into 12 parts, but that is held to be the moſt rational, which divides the Equino<g ref="char:EOLhyphen"/>ctial into 12 equal parts by Circles mee<g ref="char:EOLhyphen"/>ting at the interſections of the Meridian, and Horizon; but for the order of houſes all agree, beginning the firſt houſe at the Eaſt, calling it the Aſcendant or Horoſcope, &amp; ſo proceed under the Earth, and the reſt in their order, by the <hi>Imum Caeli,</hi> unto the Deſcendant, and thence by the <hi>Me<g ref="char:EOLhyphen"/>dium Caeli,</hi> to the Aſcendant as in this fi<g ref="char:EOLhyphen"/>gure.</p>
+               <p>Now I come to ſhew you how to erect a figure, which is eaſily done, if the fore<g ref="char:EOLhyphen"/>going Rules be heeded.</p>
+               <p>Having drawn your figure, ſeek the place of the <hi>Sun</hi> in your <hi>Ephemeris,</hi> for the time you would erect your figure; ha<g ref="char:EOLhyphen"/>ving ſo done, enter the Table of houſes, in that ſign wherein the Sun is, and the degree in the Columne of the 10th. houſe, againſt which in the firſt Column you will find certain hours, minutes, and ſeconds, which you muſt always add to the time after-noon, and if the aggregate ex<g ref="char:EOLhyphen"/>ceed 24, you muſt throw away 24, and the remainder you muſt ſeek in the firſt Column, entituled [<hi>time from noon</hi>] and directly againſt that in the Collateral Column, you ſhall find the ſigns and de<g ref="char:EOLhyphen"/>grees that are to be placed on the <hi>Cuſpis</hi> of the 6 oriental houſes, namely the 10, 11, 12, 1, 2, 3, as is ſeen in the upper part of the Table, the other 6 houſes have oppo<g ref="char:EOLhyphen"/>ſite ſigns, but the ſame degrees that the for<g ref="char:EOLhyphen"/>mer
+<pb n="8" facs="tcp:119792:11"/>6 houſes had, the houſes and ſigns are thus oppoſed, <hi>viz.</hi>
+               </p>
+               <p>
+                  <note place="margin">Oppoſite houſes</note> oppoſite ſigns.
+<table>
+                     <row>
+                        <cell>10, 11, 12, 1, 2, 3,</cell>
+                        <cell> ♈, ♉, ♊, ♋, ♌, ♍,</cell>
+                     </row>
+                     <row>
+                        <cell>4, 5, 6, 7, 8, 9.</cell>
+                        <cell>♎, ♏, ♐, ♑, ♒, ♓.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>But that the way may be eaſie (even to this Arts greateſt Enemies) I will give you a very plain example. I would know in what manner the Heavens are poſited at the middle time of that great Eclipſe of the <hi>Sun,</hi> which will happen the 2 day of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> 1654. I find the <hi>Suns</hi> place to be (by Mr. <hi>Lilly's Ephemeris</hi>) 18 d. 41′ ♌ eighteen degrees, 41 minutes of <hi>Leo,</hi> with which ſum I enter the table of houſes under <hi>Sol</hi> in <hi>Lee,</hi> and againſt the <hi>Suns</hi> place, <hi>viz.</hi> 18 degrees, 41′ minutes, I find 9 h. 25′, 44″, <hi>viz.</hi> nine hours, twenty five minutes, forty four ſeconds, to which I add the hour of the day (or middle time of the Eclipſe) <hi>viz.</hi> 21 h. 28′, twenty one hours, twen<g ref="char:EOLhyphen"/>ty eight minutes; both added together make 30 hours, 53 minutes, 44 ſeconds, thirty hours exceeding the whole Circle, I muſt therefore caſt away the whole Cir<g ref="char:EOLhyphen"/>cle, and enter the Table of houſes, in the firſt Column under time, from noon, with the remainder, which is 6 h. 53′44″, which I find in the fourth great page, and the houſes toward the orient offer them thus to my view.</p>
+               <pb n="9" facs="tcp:119792:11"/>
+               <p>
+                  <hi>The oppoſite houſes have oppoſite ſignes.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>10 houſe ♋ 12</cell>
+                        <cell>4 houſe ♑ 12</cell>
+                     </row>
+                     <row>
+                        <cell>11 houſe ♌ 20</cell>
+                        <cell>5 houſe ♒ 20</cell>
+                     </row>
+                     <row>
+                        <cell>12 houſe ♍ 17</cell>
+                        <cell>6 houſe ♓ 17</cell>
+                     </row>
+                     <row>
+                        <cell>aſcendant ♎ 9</cell>
+                        <cell>deſcend. ♈ 9</cell>
+                     </row>
+                     <row>
+                        <cell>2 houſe ♏ 2</cell>
+                        <cell>8 houſe ♉ 2</cell>
+                     </row>
+                     <row>
+                        <cell>3 houſe ♐ 2</cell>
+                        <cell>9 houſe ♊ 2</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The ſignes and degrees thus found, are to be placed on the cuſpis of each houſe, as in the following Figure.</p>
+               <p>Now come we to enquire for the Planets places, with the Dragons head and tayl, which in the aforeſaid <hi>Ephemeris</hi> are thus, (with reduction.)</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>♄</cell>
+                        <cell>28</cell>
+                        <cell>♌</cell>
+                     </row>
+                     <row>
+                        <cell>♃</cell>
+                        <cell>22</cell>
+                        <cell>♒</cell>
+                     </row>
+                     <row>
+                        <cell>♂</cell>
+                        <cell>12</cell>
+                        <cell>♌</cell>
+                     </row>
+                     <row>
+                        <cell>☉<g ref="char:Moon">☽</g>
+                        </cell>
+                        <cell>19.33</cell>
+                        <cell>♌</cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell>8</cell>
+                        <cell>♋</cell>
+                     </row>
+                     <row>
+                        <cell>♀</cell>
+                        <cell>17</cell>
+                        <cell>♍</cell>
+                     </row>
+                     <row>
+                        <cell>☊</cell>
+                        <cell>25</cell>
+                        <cell>♒</cell>
+                     </row>
+                     <row>
+                        <cell>☋</cell>
+                        <cell>25</cell>
+                        <cell>♍</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <hi>You muſt know the head and tayl of the Dra<g ref="char:EOLhyphen"/>gon are alwayes oppo<g ref="char:EOLhyphen"/>ſite.</hi>
+               </p>
+               <p>The Planets places being thus found, place them in a due order, in your figure, always obſerving if your Planets place be more degrees than the <hi>Cuſp</hi> of the houſe, he muſt be placed beyond the <hi>Cuſpis,</hi> if leſſer, he muſt be placed before the <hi>Cuſpis,</hi> as in this Figure.</p>
+               <pb n="10" facs="tcp:119792:12"/>
+               <figure>
+                  <figDesc>astrological figure</figDesc>
+                  <p>The true face of Hea<g ref="char:EOLhyphen"/>ven, for the Middle time of that moſt con<g ref="char:EOLhyphen"/>ſpicuous Eclipſe of the Sun on the ſecond day of August 1654.</p>
+               </figure>
+               <p>Hitherto hath the Lord holpen us, and we have not uſed the help of the Devil (or Satan) as Mr. <hi>B.</hi> doth ſimply affirm.</p>
+               <p>Nor have we uſed Conjuration, or Ne<g ref="char:EOLhyphen"/>cromancy, as Parſon <hi>Gataker</hi> dreamed of.</p>
+               <p>But becauſe our antient Antago<g ref="char:EOLhyphen"/>niſt ſhall not die unſatisfied, I will diſco<g ref="char:EOLhyphen"/>ver ſomething more, which ſhall be the ſhape and deſcription each Planet gives, as alſo the ſignes; this being but the ſpel<g ref="char:EOLhyphen"/>ling part of this Noble Science, I wiſh
+<pb n="11" facs="tcp:119792:12"/>Aſtrology's detractors (if they would learn to put rogether) to apply themſelves to the Introduction to Chriſtian Aſtrology, com<g ref="char:EOLhyphen"/>poſed by the ingenions Mr. <hi>W. L.</hi> where they ſhall not only learn, how they are governed by ſuch and ſuch conſtellations; but alſo, what dull, and heavy, lumpiſh ſtars, have (by ſome croſs configurations) blinded their choiceſt ſpeculation, lea<g ref="char:EOLhyphen"/>ding them captive into the inner Court of Doctor Ignorance, where they have a long time layn in the fetters of ſelf-conceit, im<g ref="char:EOLhyphen"/>prudence (or impiety rather) being their chiefeſt Jaylor. But to return from what I digreſſed.</p>
+            </div>
+            <div type="part">
+               <head>What Shape and Manners every Planet gives.</head>
+               <div n="Saturn" type="section">
+                  <head>Of the Planet <hi>♄ Saturn.</hi>
+                  </head>
+                  <p>
+                     <hi>Saturn</hi> (being <hi>Superiorum altiſſimus</hi>) gene<g ref="char:EOLhyphen"/>rally gives a body of a middle ſtature, com<g ref="char:EOLhyphen"/>plexion pale or muddy, little eyes, looking downwards, broad forhead, dark hair, great Ears, lowring Eye-brows, &amp;c. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When well dignified, the Saturnine man is very ſo<g ref="char:EOLhyphen"/>lid, and performs all his actions with wiſ<g ref="char:EOLhyphen"/>dom, and gravity; when ill, he is envi<g ref="char:EOLhyphen"/>ous, covetous, jealous, timorous, a meer diſſembling lying fellow, never ſatisfied, ever repining.</p>
+               </div>
+               <div n="Jupiter" type="section">
+                  <pb n="12" facs="tcp:119792:13"/>
+                  <head>Of the Planet <hi>♃ Iupiter.</hi>
+                  </head>
+                  <p>
+                     <hi>Iupiter (a juvando dictus)</hi> fignifies an upright and tall ſtature, a ruddy and lovely complexion, an oval viſage, ſome<g ref="char:EOLhyphen"/>what fleſhy, high forehead, large grey eyes, a ſolt hair of a lovely brown colour, &amp;c. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When ♃ is well loeated, the party by him ſign fied is then magnanimous, faithful, aiming at no mean matters, wonderful fair in his dealing, deſirous to benefit all men; if he chance to ſignifie a Prieſt, he is likely a Godly man in do<g ref="char:EOLhyphen"/>ctrine and example, hating covetouſ<g ref="char:EOLhyphen"/>neſſe (<hi>Monſtrum horrendum</hi>) a Miniſter and not covetous) when ill, a very Hy<g ref="char:EOLhyphen"/>pocrite, of a dull capacity, a meer Scep<g ref="char:EOLhyphen"/>tique, Atheiſt, or Scorner.</p>
+               </div>
+               <div n="Mars" type="section">
+                  <head>Of the Planet <hi>♂ Mars.</hi>
+                  </head>
+                  <p>
+                     <hi>Mars (Superiorum infimus)</hi> generally en<g ref="char:EOLhyphen"/>dues men with ſtrong able bodies, big bones, but of a middle ſtatute, brown complexion, ruddy colour, round viſage, the hair red, or ſandy-flaxen, cirſping, a piercing ſharp hazel eye, a confident countenance, one of a bold and undaun<g ref="char:EOLhyphen"/>ted ſpirit, fearing nothing. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When ♂ is ſtrong, then is the man of prudent beha<g ref="char:EOLhyphen"/>viour in his affairs, in war he ſcorns any ſhould exceed him, he challenges all ho<g ref="char:EOLhyphen"/>nour to himſelf, he would willingly obey no body, a large reporter of his own acts,
+<pb n="13" facs="tcp:119792:13"/>ſleights and derides all things in compari<g ref="char:EOLhyphen"/>ſon of victory; when ill diſpoſed, he is a pratler without modeſty, or honeſty, a lover of quarrels, murther, theft, an High-way theef, a perjured turbulent fel<g ref="char:EOLhyphen"/>low, neither fearing God, nor reveren<g ref="char:EOLhyphen"/>cing man.—</p>
+               </div>
+               <div n="Sun" type="section">
+                  <head>Of the <hi>☉</hi> Sun.</head>
+                  <p>Aſtrologers ſay, the <hi>Sun</hi> is placed in the middle of all the Pianers, that he may the better give light unto them, and by his acceſſe unto us, and departure from us, he doth vary the ſeaſons of the year, from whence came this Axiom.</p>
+                  <q>
+                     <l>For Phoebus running his Ecliptique ring,</l>
+                     <l>Doth make both Autumn, winter, Summer, Spring.</l>
+                  </q>
+                  <p>But to our purpoſe, the ☉ preſents one of large corporature, a ſafron complexion, a large forehead, goggle eyes large and piercing, a yellow hair, body fleſhy, a bountiful, honeſt, wel-minded man, one ſufficiently ſpirited, not loquacious. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When the <hi>Sun</hi> is well ſeated, then is the Solar man faithful, and punctual, but very deſi<g ref="char:EOLhyphen"/>rous of Soveraignty, he is prudent, and of incomparable judgement, he is courte<g ref="char:EOLhyphen"/>ous, affable, and very humane to all, can<g ref="char:EOLhyphen"/>not ſuffer a ſordid thought to enter his heare; when ill, then is the Solar man proud, reſtleſſe, troubleſome, dominee<g ref="char:EOLhyphen"/>ring, cracking of his pedegree, a ſpend<g ref="char:EOLhyphen"/>thrift, a meer vapour, and hanging on
+<pb n="14" facs="tcp:119792:14"/>mens charities, thinks all men bound to him, becauſe a Gentleman born.</p>
+               </div>
+               <div n="Venus" type="section">
+                  <head>Of the Planet Venus <hi>♀.</hi>
+                  </head>
+                  <p>
+                     <hi>Venus</hi> beſtows a comely middle ſtature, lovely complexion, round face, handſome eyes, light brown hair, a cherry lip, and decent mouth, a body very delightfull, and of admirable ſhape. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When well placed, ſhe ſignifies a quiet man, loving mirth, clean<g ref="char:EOLhyphen"/>ly in apparel, alwayes neat and ſpruce, oft intangled in Love-matters, nothing miſ<g ref="char:EOLhyphen"/>truſtfull, a right vertuous perſon, either man or woman; when ill, then wholly gi<g ref="char:EOLhyphen"/>ven to rioting, nothing regarding their reputation, an inceſtuous perſon, one of no faith, repute, or credit, a meer lazie companion, not regarding the things of this life, no nor that to come neither, a meer Atheiſt or natural man.</p>
+               </div>
+               <div n="Mercury" type="section">
+                  <head>Of the Planet <hi>☿</hi> Mercury.</head>
+                  <p>
+                     <hi>Mercury (dictus ſtillion)</hi> denotes one of a high ſtature, ſtraight body, long face, high forhead, long noſe, fair eyes, thin lips, ſad brown hair, almoſt black, long arms and hands, complexion of an olive, or cheſ<g ref="char:EOLhyphen"/>nut colour. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When well ſeated, ☿ gives a penetrating brain, makes a man ſharp and witty, learning any thing without a tea<g ref="char:EOLhyphen"/>cher, curious in the ſeareh of occult know<g ref="char:EOLhyphen"/>ledge, an admirable diſputant, uſing much eloquence, a ſearcher into all myſteries,
+<pb n="15" facs="tcp:119792:14"/>able by his own Genius to produce won<g ref="char:EOLhyphen"/>ders; when ill, a troubleſom wit, a lyar, a boaſter, pratler, a buſie-body, an author of ſtrifes, a pretender to all manner of know<g ref="char:EOLhyphen"/>ledge, but guilty of no lolid learning; if a Divine, then he is a meer verbal fellow, more in ſhew than in ſubſtance, one of no Judgement, eaſily perverted —</p>
+               </div>
+               <div n="Moon" type="section">
+                  <head>Of the <hi>
+                        <g ref="char:Moon">☽</g>
+                     </hi> Moon.</head>
+                  <p>
+                     <hi>Luna</hi> (or the <hi>Moon</hi> 
+                     <g ref="char:Moon">☽</g>,) generally pre<g ref="char:EOLhyphen"/>ſents a man of fair ſtature, round face, gray eyes, one eye bigger than the other, much hair, but the colour according to the ſigne ſhe is in, or Planet ſhe is with, the whole body is plump, corpulent, and flegma<g ref="char:EOLhyphen"/>tique. <label type="milestone">
+                        <seg type="milestoneunit">Manners. </seg>
+                     </label> When well dignified, ſhe ſignifies a lover of all ingenuous ſtudies, a delighter in novelties, naturally propenſ'd to flitt and ſhift his habitations, but a ſoft and tender creature, alwayes loving peace; when ill, a meer vagabond, idle perſon, hating labour, a drunkard, a ſott, one of no ſpirit or forecaſt, delighting to live beg<g ref="char:EOLhyphen"/>garly and careleſly, content in no conditi<g ref="char:EOLhyphen"/>on, be it good or ill.</p>
+                  <p>Thus have I journeyed through the ſhapes and manners each Planet (under God) gives; I come next to the Signes, where I ſhall make uſe of as little conju<g ref="char:EOLhyphen"/>ration, as hitherto I have done: if I write any thing that ſhould favour of evil, let it be detected, and me for ſo doing convict<g ref="char:EOLhyphen"/>ed, by thoſe that underſtand it.</p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:119792:15"/>
+               <head>A Deſcription of the <hi>12</hi> Signes.</head>
+               <p>
+                  <hi>Aries</hi> ♈ gives a dry body, not high, lean or ſpare, but luſty bones, ſtrong limbs, long viſage, black ey-brows, a long neck, thick ſhoulders, the complexion duskiſh brown or ſwartiſh.</p>
+               <p>
+                  <hi>Taurus</hi> ♉ preſents one of a ſhort, but of full ſet and ſtrong ſtature, a broad fore<g ref="char:EOLhyphen"/>head, great eyes, big face, large, ſtrong ſhoulders, great mouth, and thick lips, groſs hands, black rugged hair.</p>
+               <p>
+                  <hi>Gemini</hi> ♊ imports an upright, tall, ſtraight body, either in man or woman, ſanguine complexion, not clear, but dark and obſcure, long arms, but many times the hands and feet ſhort, but very fleſhy, a dark hair almoſt black, a ſtrong, active body, a good piercing hazle ey, and wanton, of perfect ſight, one of excel<g ref="char:EOLhyphen"/>lent underſtanding, and judicial in world<g ref="char:EOLhyphen"/>ly affairs.</p>
+               <p>
+                  <hi>Cancer</hi> ♋ denotes one of a low ſtature, generally the upper parts of the body big<g ref="char:EOLhyphen"/>ger than the lower, the viſage round, ſick<g ref="char:EOLhyphen"/>ly, and pale, a whitely complexion, the hair a ſad brown, little eyes, prone to have many Children, if a Woman.</p>
+               <p>
+                  <hi>Leo</hi> ♌ ſignifies one of a large and full bo<g ref="char:EOLhyphen"/>dy, more than of a middle ſtature, broad ſhoulders, narrow ſide, yellow, or dark flaxen hair, much curling, or tur<g ref="char:EOLhyphen"/>ning up, a great round head, big eyes,
+<pb n="17" facs="tcp:119792:15"/>ſtarting or ſtaring out, or goggle eyes, quick-fighted, a fierce countenance, but ruddy, high ſanguine complexion, ſtrong valiant and active.</p>
+               <p>
+                  <hi>Virgo;</hi> ♍ perſonates a ſlender body of mean hight, but decently compoſed, a ruddy brown complexion, black hair, wel-favoured or lovely, but no beautiful creature, a ſmall ſhril voice, all mem<g ref="char:EOLhyphen"/>bers inclining to brevity, a witty diſcreet Soul, judicious, and excellently well<g ref="char:EOLhyphen"/>ſpoken, ſtudious, and given to Hiſtory, whether man or woman, it produceth a care, underſtanding, if ☿ be there, and <g ref="char:Moon">☽</g> in ♋, but ſomewhat unſtable.</p>
+               <p>
+                  <hi>Libra</hi> ♎ gives a well framed body, ſtraight, tall, and more ſubtil or flen<g ref="char:EOLhyphen"/>der than groſſe, a round, lovely, and beautiful viſage, a pure ſanguine colour, in youth no exceſſe in either white or red, but in age uſually ſome pimples or a very high colour, the hair yellowiſh, ſmooth, and long.</p>
+               <p>
+                  <hi>Scorpio</hi> ♏ preſents a corpulent, ſtrong, able body, ſomewhat a broad or ſquare face, a duskiſh muddy complexion, a ſad dark hair much and curling, an hairy bo<g ref="char:EOLhyphen"/>dy, ſomewhat bow-legged, ſhort-necked, a ſquart well-truffed fellow.</p>
+               <p>
+                  <hi>Sagittari</hi> ♐ imports one of a ſtature ſome<g ref="char:EOLhyphen"/>what above the middle ſize, a well-favou<g ref="char:EOLhyphen"/>red countenance, ſomewhat long viſage, but full and ruddy, almoſt like Sunburnt, the hair light Cheſnut colour, a confor<g ref="char:EOLhyphen"/>mity in the Members, and a ſtrong able body.</p>
+               <pb n="18" facs="tcp:119792:16"/>
+               <p>
+                  <hi>Capricorn</hi> ♑ denotes one of a dry body, not high of ſtature, long, lean, and ſlender viſage, thin beard, black hair, a narrow chin, long, ſmall neck, and nar<g ref="char:EOLhyphen"/>row breaſts.</p>
+               <p>
+                  <hi>Aquarius</hi> ♒ ſignifies a ſquat thick cor<g ref="char:EOLhyphen"/>porature, or one of a ſtrong well-compo<g ref="char:EOLhyphen"/>ſed body, not tall, long viſage, ſan<g ref="char:EOLhyphen"/>guine complexion, if ♄ who is Lord of this houſe, be in ♑ or ♒, the party hath black hair, and diſtorted teeth, other<g ref="char:EOLhyphen"/>wiſe of a white and clear complexion, flaxen hair, a very pure skin.</p>
+               <p>
+                  <hi>Piſces</hi> ♓ perſonates one of ſhort ſtature, ill compoſed, not very decent, a good large face, paliſh complexion, the body fleſhy or ſwelling, not very ſtraight, but incurvating ſomewhat with his head.</p>
+               <p>Thus have I given you a brief deſcripti<g ref="char:EOLhyphen"/>on of the Signs.</p>
+               <p>The ſignification of the 12 houſes of Hea<g ref="char:EOLhyphen"/>are expreſſed in theſe two verſes.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1</cell>
+                        <cell>2</cell>
+                        <cell>3</cell>
+                        <cell>4</cell>
+                        <cell>5</cell>
+                        <cell>6</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Vita,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Lucrum,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Fratres,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Genitor,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Nati,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Valetudo,</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>7</cell>
+                        <cell>8</cell>
+                        <cell>9</cell>
+                        <cell>10</cell>
+                        <cell>11</cell>
+                        <cell>22</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Uxor,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Mors,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Sacra,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Religio,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Benefacta<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan>,</hi>
+                        </cell>
+                        <cell>
+                           <hi>Carcer.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>There are many other diviſions of the ſignes, as into common, fixed, movea<g ref="char:EOLhyphen"/>ble, Diurnal, Nocturnal, Maſculine, Femi<g ref="char:EOLhyphen"/>nine, Northern, and Southern, Fiery, Airy, Earthly, and Watry, Beſtial, Proli<g ref="char:EOLhyphen"/>fical, Barren, Human, Feral, Mute; which are treated of at large in Mr. <hi>Ls.</hi> Intro<g ref="char:EOLhyphen"/>duction, as before mentioned, to which I refer the Reader; I have been larger
+<pb n="19" facs="tcp:119792:16"/>than I intended, but I am the more larges in that I would not have Mr. <hi>G.</hi> of <hi>R.</hi> to die unſatisfied in this point, nor Mr. <hi>B.</hi> to think but that the ground of this Art is real, ſubſtantial, and deduced from no Heatheniſh or Diabolical grounds, as is ſufficiently proved, in my examinations of his Pamphlet belchd out againſt Aſtro<g ref="char:EOLhyphen"/>logie.</p>
+            </div>
+            <div type="part">
+               <head>Of the Paſſions of the Luminaries <hi>15</hi> years yet to come.</head>
+               <div type="section">
+                  <head>Of the Solar defects, or <hi>Suns</hi> Eclipſes.</head>
+                  <p>IN the year of our Lord 1654, will be a viſible Solar Eclipſe, upon the 2 day of <hi>Auguſt,</hi> at nine a clock in the morning, were Mr. <hi>B.</hi> an Abbot in <hi>Italy,</hi> this might prove inimical to him, but he being a Prieſt in <hi>England</hi> it relates not publickly to him.</p>
+                  <p>In the year 1655, on the 27 day of <hi>Ia<g ref="char:EOLhyphen"/>nuary,</hi> at 2 a clock in the afternoon, will be a ſmall Solar defect, but will hardly be conſpicuous to the eye.</p>
+                  <p>In the year 1656. on the 16 day of <hi>Ia<g ref="char:EOLhyphen"/>nuary,</hi> at 1 h. 45, <hi>viz.</hi> at forty five mi<g ref="char:EOLhyphen"/>nutes after one in the afternoon, will ap<g ref="char:EOLhyphen"/>pear a great Solar Eclipſe, there being 8 digits, one third part of a digit of the <hi>Suns</hi>
+                     <pb n="20" facs="tcp:119792:17"/>body obſcured, the Eclipſe falls in the ninth houſe in the aſcendant of <hi>Swedland, Muſcovia, Weſtphalia,</hi> &amp;c. If Religion make thoſe Countries as mad, as it hath done the Engliſh, I cannot help it; I ſay this Eclipſe falls in the 9th houſe in ♒, an aereal ſign, I fear not only a famine of the word of God, but a Famine of bread, and ſickneſſe to boot; For an Eclipſe in the ♊, ♎, ♒, (ſaith <hi>Proclus</hi>) imports Famine, great Sickneſſes, and peſtilential Diſeaſes, <hi>&amp;c.</hi> but this is not my intent to write of the effects of Eclipſes, therefore I will keep to my text.</p>
+                  <p>In the year 1659. on the 4th day of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> will appear a great Eclipſe about 3 a clock in the afternoon in the ſign ♏ <hi>Scorpii,</hi> the moſt vitious of all the twelve.</p>
+                  <p>In the year 1661. on the 13th day of <hi>September,</hi> at 11 h. 44 A. M. <hi>viz.</hi> eleven a clock forty four minutes paſt, will the <hi>Sun</hi> be, in a manner, totally obſcured, the de<g ref="char:EOLhyphen"/>fect happens in ♍ <hi>Virgo;</hi> I pray God bleſs my friends in <hi>Greece,</hi> and be merciful to the Inhabitants of <hi>Jeruſalem.</hi>
+                  </p>
+                  <p>In the year 1666 on the 22th day of <hi>June,</hi> about 7 a clock in the morning, will the <hi>Sun</hi> be obſcured in the Tropick ♋: Mote vengeance threatned to <hi>Holland,</hi> and <hi>Scotland,</hi> the Lord avert it. And thus have I ſpoken of the Solar Eclipſes which will be viſible in <hi>England,</hi> I come now to the Lunar defects.</p>
+               </div>
+               <div type="section">
+                  <pb n="21" facs="tcp:119792:17"/>
+                  <head>Of the Eclipſes of the Moon which will appear viſible in our Horizon, for theſe <hi>15</hi> years yet to come.</head>
+                  <p>IN the year 1654. (will the <hi>Moon</hi> ſuffer an Eclipſe) on the 21 day of <hi>February,</hi> about 6 a clock in the morning.</p>
+                  <p>In the ſame year, on the 17 day of <hi>Au<g ref="char:EOLhyphen"/>guſt,</hi> at 10 a clock at night, will the <hi>Moon</hi> be Eclipſed, but not very much, therefore not of much conſequence.</p>
+                  <p>In the year 1656. on the 1 day of <hi>Janua<g ref="char:EOLhyphen"/>ry,</hi> at 7 a clock at night, will the <hi>Moon</hi> be almoſt totally darkned, this defect hap<g ref="char:EOLhyphen"/>pens to the <hi>Moon</hi> in her own houſe, <hi>viz.</hi> ♋, you will hear of its portents when the year commeth.</p>
+                  <p>In the year 1657. on the 15 day of <hi>June,</hi> at 7 a clock at night, will the <hi>Moon</hi> be to<g ref="char:EOLhyphen"/>tally Eclipſed, it hapneth in ♐: Hath <hi>Spain</hi> been quiet too long, I fear ſome ſtrange Mutations there.</p>
+                  <p>In the ſame year happens another E<g ref="char:EOLhyphen"/>lipſe of the <g ref="char:Moon">☽</g>, (but not central) on the 10 day of <hi>December,</hi> almoſt at 6 a clock at night to be ſeen at <hi>London.</hi>
+                  </p>
+                  <p>In the year 1659. on the 26 day of <hi>April,</hi> at 5 a clock at night will the <hi>Moon</hi> be E<g ref="char:EOLhyphen"/>clipſed.</p>
+                  <p>In the ſame year on the 19th day of <hi>October,</hi> at 11 a clock at inght, will the earth ſhroud her again from the <hi>Sun</hi>'s brightneſſe.</p>
+                  <pb n="22" facs="tcp:119792:18"/>
+                  <p>In the year 1661. on the 28 of <hi>Septemb.</hi> at 1 a clock in the morning, will the <hi>Moon</hi> be Eclipſed in the regal ſign ♈.</p>
+                  <p>In the year 1663. on the 12 of <hi>February,</hi> will the <hi>Moon</hi> be Eclipſed at 2 a clock in the morning.</p>
+                  <p>In the month of <hi>Auguſt</hi> the ſame year, and 8th day of that month, at 6 a clock at night, will the <hi>Moon</hi> be deprived of her borrowed light wholly.</p>
+                  <p>Beſides theſe two Eclipſes of the <hi>Moon,</hi> there happens an unuſual ☌ <hi>conjunction</hi> of ♄ and ♃ in the ſigne ♐: <hi>Spain</hi> hath but been jeſted with hitherto, let them look to it now in earneſt, aſſuredly a great change will be wrought among them; Let God be glorified.</p>
+                  <p>In the year 1665. on the 21 of <hi>January,</hi> at 5 a clock in the morning, will the <hi>Moon</hi> ſuffer an Eclipſe, but 'twill not contain two digits, therefore no Memorables are ſignified by it.</p>
+                  <p>And thus much for Eclipſes, both So<g ref="char:EOLhyphen"/>lar and Lunar, I mean as many of them as will be conſpicuous in our Horizon, for 15 years yet to come.</p>
+                  <p>All Authors conclude Eclipſes to be the Antecedents of great changes, as well in private genitures, as publick Inthroni<g ref="char:EOLhyphen"/>zations, Inſtitutions and Elections, &amp;c. though Mr. <hi>Gataker</hi> deem an Eclipſe of no greater moment, than the black-fac'd night, but ſhould any defect in either of the Luminaries chance to fall in his aſcen<g ref="char:EOLhyphen"/>dant, or mid-heaven, it would go neer to
+<pb n="23" facs="tcp:119792:18"/>give him his paſport into another world, and not give him time to repent his folly, unleſs God were the more mercifull to him, let not him, nor any elſe (therefore) <hi>Momus</hi>-like) bark at the <g ref="char:Moon">☽</g> 
+                     <hi>Moon,</hi> or carp at the ſigns of Heaven; for <hi>Coeli enarrant Dei fortis, &amp; opus manuum ejus indicat ex<g ref="char:EOLhyphen"/>panſum corum,</hi> Pſa. 19. v. 1.</p>
+               </div>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>SInce Mr.</hi> G. <hi>hath in ſo fool-hardy a man<g ref="char:EOLhyphen"/>ner ſlighted Eclipſes, and their effects, I will ſhow to the world one admirable Pre<g ref="char:EOLhyphen"/>diction, cauſed principally by that Eclipſe of</hi> ☉ <hi>in</hi> Auguſt 1645. <hi>ſo exquiſitely handled by Mr.</hi> Lilly <hi>in his</hi> Starry-Meſſenger, p. 33. <hi>viz.</hi> When I ſee (<hi>ſaith Mr.</hi> Lilly) ♒ de<g ref="char:EOLhyphen"/>ſcending in the fourth, and the <hi>Dragons tayl</hi> ☋ ſo neer the Cuſpis of that houſe, and ♄ retrograde in the 7th, a fixed ſign, what aſſurance have I, that the moſt ſtate<g ref="char:EOLhyphen"/>ly building of this Kingdom ſhall eſcape ruine, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>If your Envy will ſuffer you to speak, con<g ref="char:EOLhyphen"/>tradict this ſo admirable a Prediction, Say, Mr.</hi> G. <hi>are not antienteſt buildings of this Kingdome in a great meaſure decayed? where are the</hi> quondam <hi>Princely Palaces become? not only the Kings Manor-houſes are neglected, but the Prelats lofty Towers are even diſ-re<g ref="char:EOLhyphen"/>ſpected, and to what they have been formerly, are ruin'd, ſpoyled, utterly defaced, witneſſe</hi> Lambeth, London, Durham <hi>Houſes, &amp;c.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="pamphlet">
+            <pb facs="tcp:119792:19"/>
+            <pb facs="tcp:119792:19"/>
+            <head>
+               <hi>Envy Diſſected,</hi> OR, An Examination of a ſpurious Pamphlet (intituled, <hi>Aſtrology proved to be the doctrine of</hi> Dae<g ref="char:EOLhyphen"/>mons, <hi>&amp;c.</hi>)</head>
+            <div type="foreword">
+               <head>Prooemium.</head>
+               <p>QUilibet praeſumitur eſſe bonus, dum contrarium probetur, <hi>Every man is preſumed to be good, untill the contrary be proved; thus, and no better, fareth it with Parſon</hi> Brayn, <hi>who, while he followed his ſtudy of Divinity ſingly, no one had ought elſe to ſay of him, but that he was a good and godly man, zealous for God, painfull in the Goſpel, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>But Mr.</hi> B. <hi>no ſooner falls from his Divini<g ref="char:EOLhyphen"/>ty, (unto Aſtrology) but preſently, inſtead of making himſelf honourable therein, miſſes of the true Key, and indeed, like the Fox in the Fable, ſlights his Art, and fooliſhly reproaches it, which we had not ſo plainly known, had not his pen been the bewrayer of his folly, and in<g ref="char:EOLhyphen"/>deed the production of the contrary of what he was formerly preſumed to be.</hi>
+               </p>
+               <p>
+                  <hi>The change being ſudden, makes us the more
+<pb facs="tcp:119792:20"/>wonder at the reaſon of this Gentlemans deſer<g ref="char:EOLhyphen"/>ting his</hi> quondam <hi>affected ſtudies, it may be preſumed 'twas gain made him kick againſt Aſtrology ſo, and not the evil of the Art, as he pretends, (for the Art is laudable, as I ſhall before I end prove) To Aſtrology belongs no Tithes, I confeſs, therefore to Mr.</hi> B. <hi>it may be evil; neither doth there appertain to it any Livings, amounting to</hi> 200 <hi>or</hi> 300 <hi>or</hi> 500 <hi>or</hi> 1000 <hi>l.</hi> per annum, <hi>had there been any of this to have been had, it had not mattered what the Art had been; no wonder now, that he ſhould ſay the Art's evil, and unchriſtian, for indeed in theſe dayes the moſt Chriſtian Arts are thoſe that bring in moſt money, be they what they will, and I preſume not long ſince gave a worthy Gentleman occaſion to ſay,</hi> Angels of Gold pleaſe the Saints on Earth, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>But whither am I transported? I muſt con<g ref="char:EOLhyphen"/>tract, what I now intend, into a method, and that will be by way of Examination of a Pam<g ref="char:EOLhyphen"/>phlet, Entituled,</hi> Aſtrology proved to be the doctrine of <hi>Daemons, ſet forth by Mr.</hi> J. B. <hi>a</hi> quondam <hi>pretended Miniſter of the Goſpel. As ſome Philoſophers divide the Soul, ſo ſhall I divide this Gentlemans Pamphlet,</hi> viz. <hi>into Paſſion and Reaſon, and theſe two grand Sections I ſhall again ſubdivide, that I may examine them apart the better. The firſt Section is the Paſſionate part, which in order I ſhall thus examine.</hi>
+               </p>
+            </div>
+            <div n="1" type="part">
+               <pb n="1" facs="tcp:119792:20"/>
+               <head>The firſt part of his paſſion exa<g ref="char:EOLhyphen"/>mined.</head>
+               <p>IN the beginning of this Tragi-comedy, I find a maſſe of Hypocriſie, covered un<g ref="char:EOLhyphen"/>der theſe words, <hi>viz.</hi>
+                  <q rend="margQuotes">I write not this (ſaith he) for any offence taken, nei<g ref="char:EOLhyphen"/>ther to give offence to any one,</q> 
+                  <hi>&amp;c.</hi>
+               </p>
+               <p>Sir, this covering is too narrow for you, we can notwithſtanding this, eſpy your great Hypocriſie, and the way you uſe to ſhroud your ſelf from the eyes of the world, let me a little reaſon with you from your own words, If you have not taken offence or in<g ref="char:EOLhyphen"/>tended any, why do you uſe ſuch deriding language, as to call Chriſtian-Aſtrology the doctrine of Demons
+<note n="*" place="margin">And ne<g ref="char:EOLhyphen"/>ver ex<g ref="char:EOLhyphen"/>plains the word which ſignifies no more than an Angel or Spirit.</note>, and Chriſtian-Aſtro<g ref="char:EOLhyphen"/>logers Idolaters, <hi>&amp;c.</hi> when it plainly ap<g ref="char:EOLhyphen"/>pears they diſown all ſuch ſuperſtitious courſes, and hate Idolatry with a perfect hatred, never profeſſing any thing more, than in Chriſtianity they can be counte<g ref="char:EOLhyphen"/>nanced, elſe the learned in (all ages, as well as) theſe laſt days have been miſled, eſpecially the reverend Divine <hi>R. Gel. D. D.</hi> who hath honoured the Society of Artiſts ſo much, as to preach two ſeveral Sermons in the praiſe of that Science, as alſo Mr. <hi>Reeve,</hi> and Doctor <hi>Swadling,</hi> e<g ref="char:EOLhyphen"/>minent learned men, have not mincing<g ref="char:EOLhyphen"/>ly ſet forth the lawfulneſſe of the Art, but eminently, whoſe (never to be forgotten) works, are as ſo many Iudges ſitting in Di<g ref="char:EOLhyphen"/>vinities
+<pb n="2" facs="tcp:119792:21"/>vinities higheſt ſphere, judging, arraigning and condemning Mr. <hi>B.</hi> libiduous pamplet, which hath endeavoured to divorce the Heavens from the Earth, in taking away the operation of the Planets, Conſtellati<g ref="char:EOLhyphen"/>ons, and Angels, from the inferiour world, breaking <hi>Homers</hi> golden chain, meaſuring and limiting all Sciences, nay the word of God it ſelf, according to the model of his own underſtanding: But Aſtrology is a traditional thing (ſaith he) 'tis true, and may therein be oppoſed to his Divi<g ref="char:EOLhyphen"/>nity, for are not the fires of Divinity, as well as Aſtrology, maintained by the fewel of tradition, <hi>viz.</hi> the works of anti<g ref="char:EOLhyphen"/>ent and modern writers, but for experi<g ref="char:EOLhyphen"/>ences, ſet him quote ſuch as may out-vye Aſtrology if he can, but alas ſince the Gen<g ref="char:EOLhyphen"/>tleman ſpoke, what he ſpoke in paſſion, I ſhall paſſe it by the eaſier, and conclude,</p>
+               <p>That if Preachers (as well as Aſtrolo<g ref="char:EOLhyphen"/>gers) ſhould have nothing to ſay,
+<note place="margin">Nota.</note> but what they receive by inſpiration, (throw<g ref="char:EOLhyphen"/>ing Tradition wholy aſide) they would make as mad a harmony in their Pulpits, as the men of Bedlam doe in their com<g ref="char:EOLhyphen"/>mon chat.</p>
+               <p>Some of late have leapt out of the broad Sea of Authors, into the narrow Brook of inſpiration, but were glad at their hearts to retreat, and indeed I judge the Gentleman is departed from the truth, and doth not deal honeſtly, if he deny tradition to be his only friend: For as <hi>Tieho, Albumazer, Ptolomy,</hi> &amp;c. are by their
+<pb n="3" facs="tcp:119792:21"/>works the friends of Aſtrologers, ſo <hi>Sc. Auguſtine, Gregory, Jerom, Baſile,</hi> and <hi>Tho<g ref="char:EOLhyphen"/>mis Aquinas</hi> are the friends of Divines.</p>
+               <p>But if my Antagoniſt ſhould ſay,
+<note place="margin">I do not ſay but that God may work miracu<g ref="char:EOLhyphen"/>louſly in the hearts of men, as of old he did, but he doth not ſo fre<g ref="char:EOLhyphen"/>quently now.</note> he can by inſpiration preach and exhort without ſuch and ſuch like authors, I ſay he muſt firſt be converſant in them, or elſe he can<g ref="char:EOLhyphen"/>not; For can any man learn to read En<g ref="char:EOLhyphen"/>gliſh well, and not begin at A, B, C? if they cannot, neither may the other, un<g ref="char:EOLhyphen"/>leſſe he firſt read preaching and expoun<g ref="char:EOLhyphen"/>ding Authors.</p>
+               <p>By this it appears, my Antagoniſt is more paſſionate than rational, for let any man but look into the book of reaſon, and (by inſpection only) he may eaſily ſee that Divinity as well as Aſtrology, have their riſe from one ſpring, and the light they have is fed and nouriſhed by one ſpi<g ref="char:EOLhyphen"/>rit, or matter, <hi>viz.</hi> Tradition, though they appear to us in ſeveral Dialects.</p>
+               <p>Thus have I plucked off his vizard of Hypocriſie, under which hath lain this ſtrange kind of paſſion, <hi>viz.</hi> he hath not taken offence, neither doth write to give offence to any, but yet belches forth exe<g ref="char:EOLhyphen"/>crations againſt an honeſt Art, that he (like a bungler) having the knowledge (as he pretends) of the oriental tongues, could not be maſter of, the fault is more in the Foxes inabilities, than the Grapes highneſs.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="4" facs="tcp:119792:22"/>
+               <head>The ſecond part of paſſion ex<g ref="char:EOLhyphen"/>amined.</head>
+               <p>A Saint ſeemingly is my Antagoniſt, elſe his words would not have been ſo holily methodized, for mark, he hath writ<g ref="char:EOLhyphen"/>ten here, as if he had been lighted by <hi>Candela Domini</hi> Gods own Candle;
+<q rend="margQuotes">I have writ (ſaith he) out of unfeigned love to God, and the Goſpel, as if he ſhould have ſaid, ſince the Art of Aſtrolo<g ref="char:EOLhyphen"/>gy (which is one of the Liberal Sciences) is thus frequently profeſſed, the love of God and the Goſpel, is fading, and dying, and like the leaves in Autumn falling quite away, in and from the hearts of Chriſtians, and now there's no body left to love unfeignedly God and the Goſpel;</q> thus my Antagoniſt; but I would ask him one queſtion, <hi>viz.</hi> whether the Aſtrolo<g ref="char:EOLhyphen"/>gers (who have decry'd the Knaveries of ſome ſpurious Divines) have not in a more immenſe manner, manifeſted their un<g ref="char:EOLhyphen"/>feigned love to God and the Goſpel, than thoſe ſpurions Divines, who make it their chief work to bring rayling accuſations (ſuch as <hi>Moſes</hi> durſt not bring againſt the Devil) againſt all ſorts of perſons, as well as Aſtrologers, who will not conform themſelves to their <hi>Dagon.</hi>
+               </p>
+               <p>But ah alas! the Gentleman may here be excuſed, ſith it may be preſumed he inten<g ref="char:EOLhyphen"/>ded well when he took theſe words into
+<pb n="5" facs="tcp:119792:22"/>his mouth, or ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a task upon him, as to pretend love to God and the Goſpel, but in earneſt I think, if the Goſpel of God had no better lovers than ſuch as would willingly obliviate all humane ex<g ref="char:EOLhyphen"/>cellencies, 'twould be as ſlenderly loved, as Mr: <hi>B.</hi> loves Aſtrology, again</p>
+               <p>If he had born any love to God and the Goſpel, he would not have envied that which is better Goſpel, than he may be ſuppoſed to be acquainted with, nor have appeared like <hi>Janus</hi> the two-faced God, with a plauſible outſide to the ignorant, and as notorious Hypocriſie to the Intel<g ref="char:EOLhyphen"/>ligent.</p>
+               <p>For his equivocating with God, I leave him to God to be dealt with, but for his Hypocriſie to the Goſpel, and Liberal Sci<g ref="char:EOLhyphen"/>ences, he doth deſerve to have a reward anſwerable follow him, the Goſpel indeed is little beholding to him for his love, as in ſome after particulars ſhall appear, but to conclude this part, I ſhall inſtance but one ſaying in <hi>Zanchius,</hi> which I preſume to be Chriſtian, which makes not a little for the truth of Aſtrology and the Chriſtia<g ref="char:EOLhyphen"/>nity of it.</p>
+               <p>
+                  <hi>Hic ergo eſt uſus verae aſtrologiae,</hi>
+                  <note place="margin">
+                     <hi>Zanc.</hi> 119 <hi>de Aſtro<g ref="char:EOLhyphen"/>nom.</hi>
+                  </note> 
+                  <hi>ut mul<g ref="char:EOLhyphen"/>torum effectuum qui in terr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s fiunt cauſas qua in Coelo ſunt, agnoſcat, aliquando etiam ante<g ref="char:EOLhyphen"/>quam fiunt, ipſes eſſectus in ſuis cauſis prae<g ref="char:EOLhyphen"/>videat.</hi>
+               </p>
+               <p>This therefore is that true uſe of Aſtro<g ref="char:EOLhyphen"/>logy, to underſtand from it, the cauſes which only are in Heaven, of the many
+<pb n="6" facs="tcp:119792:23"/>effects which are on earth, and ſometimes long before they come to paſſe, that we may prevent the effects themſelves in the cau<g ref="char:EOLhyphen"/>ſes.</p>
+               <p>I hope Mr. <hi>Brayne</hi> will not term this dia<g ref="char:EOLhyphen"/>bolical, for this is a Chriſtian ſaying, and no one will deny, unleſſe wholly given up unto ſuch a ſtate of Reprobacy (as the Prophet <hi>Eſay</hi> ſpeaks) as to call Good,
+<note place="margin">
+                     <hi>Eſay</hi> 5.</note> E<g ref="char:EOLhyphen"/>vil, and Evil, Good; or as Doctor <hi>Gell</hi> of the Sect of <hi>Balaam</hi> ſpeaks,
+<note place="margin">
+                     <hi>Num.</hi> 22. <hi>v.</hi> 23.</note> That force the Aſs againſt the Angel. Meditate on this Mr. <hi>Brayne,</hi> and conſult the other ſaying of <hi>Zanchius</hi> with it, and then you will draw better concluſions than ever you have done, you will then ſay (inſtead of Aſtro<g ref="char:EOLhyphen"/>logies choaking the good ſeed of God in mens hearts) that Aſtrology is rather a friend, than an enemy of the Bridegroom Jeſus Chriſt; for <hi>Hanc unam ſcientiam eſſe viam &amp; ſemitam ad ſciendum Deum altiſſi<g ref="char:EOLhyphen"/>mum.</hi> This Science, ſaith <hi>Ptolomy,</hi> is a way and path to know the moſt high God.</p>
+               <p>Then let not Mr. <hi>B.</hi> nor any other of Aſtrologies Antagoniſts, ſuggeſt an evill done to God or the Goſpel by Aſtrology, (as they practice it lawfully) for there is none, there may be an apprehended evil in them indeed to the Prieſtly function, in that they have ſhowed their profound na<g ref="char:EOLhyphen"/>tural skil in purging the ſulphurious ſto<g ref="char:EOLhyphen"/>machs of the Clergy (in theſe late yeares eſpecially) with which they had almoſt infected the whole Nation:
+<note n="*" place="margin">It is the ſpurious party I ſpeak of, the ortho<g ref="char:EOLhyphen"/>dox Divine hates ſuch folly.</note> Prieſts were alwayes contentious, full of ſtrife, ſo that
+<pb n="7" facs="tcp:119792:23"/>I may without hurt or offence, conclude them not illegitimate, in that they take it by ſucceſſion.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The third part of Paſsion examined.</head>
+               <p>NOw to ſalve over all his maliciouſneſs, he makes a large diſcovery of a Chri<g ref="char:EOLhyphen"/>ſtian care he is poſſeſſed with for the good of our ſouls, and this was one main thing that prevailed with him to dehort us from the ſtudy of Aſtrology.</p>
+               <p>For his care of our ſouls good, we thank him, but in earneſt had as lieve he had let the care of them alone, for nothing wrongs poor ſouls more than a pretended care; but whither am I ranging? care for our ſoules did he ſay? the more preſumptuous he, may I ſay, for to care for ſouls is too high aſ<g ref="char:EOLhyphen"/>ſumption for mortals, and none but the preſumptuous Pope doth aſſume that ho<g ref="char:EOLhyphen"/>nour to himſelf; I hope he will not give me cauſe to think him one of his derivaſes I'll take this to be uttered in paſſion, for 'tis the Paſſionate part I am yet upon.</p>
+               <p>Poor man! in this thou art too weak, What is the Creature, that he ſhould in<g ref="char:EOLhyphen"/>termeddle with an increated ſubſtance? for man to do ſo, is it not to throw down God, and ſet up himſelf as God? Who, I
+<pb n="8" facs="tcp:119792:24"/>pray, can of right care for ſouls, as God can, whoſe Eſſence they are? truly I think no one; for if God be the Shepherd and Biſhop of our ſoules (as St. <hi>Peter</hi> ſayth) then God is a better protector of our ſouls than Mr. <hi>Brayne,</hi> or the Pope either.</p>
+               <p>If he, <hi>viz.</hi> Mr. <hi>B.</hi> hath received any ſpe<g ref="char:EOLhyphen"/>cial commiſſion to take care of our ſouls, he had beſt produce it, otherwiſe I will not believe him; for verily I am of a more Chriſtian belief, than to think God would give the care, or charge of our ſouls, to a<g ref="char:EOLhyphen"/>ny particular man, (or men) for ſhould it have ſo been, 'twould have grieved me fore to think how ſluttiſhly our ſoules (which are of Gods own Eſſence) would be looked unto.</p>
+               <p>But ſtay, can he be thought a good ca<g ref="char:EOLhyphen"/>for our ſouls, that would robb us of what ſhould doe both ſouls and bodies good? let him read <hi>Ovid,</hi> and he will tell him, why God hath made us in his own I<g ref="char:EOLhyphen"/>mage, <hi>viz.</hi> That in our aſpect towards hea<g ref="char:EOLhyphen"/>ven we may behold his divine Majeſty; for,
+<q>
+                     <l>
+                        <hi>Os homini ſublime dedit, coelum<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> videre</hi>
+                     </l>
+                     <l>
+                        <hi>Juſſit, &amp; ercetos ad ſydera tollere vultus.</hi>
+                     </l>
+                     <l>God with a lofty look did man indue,</l>
+                     <l>Commanding him both heaven and ſtars to view.</l>
+                  </q>
+               </p>
+               <p>Now Mr. <hi>B.</hi> can you deny <hi>Coelum eſt in<g ref="char:EOLhyphen"/>ſtrumentum quo inferiora agit, impellit, regit<g ref="char:EOLhyphen"/>que,</hi> the Heavens to be Gods inſtrument, whereby he worketh, enforceth, and gover<g ref="char:EOLhyphen"/>neth
+<pb n="9" facs="tcp:119792:24"/>all things? can you deny, the know<g ref="char:EOLhyphen"/>ledge of theſe heavens (which God uſes as Inſtruments) to be lawfull? For the ſayings of the Antients they are not in any eſteem with this Gentleman:
+<note n="*" place="margin">Which ſpring feeds his almoſt-ex<g ref="char:EOLhyphen"/>tinguiſhed lamp.</note> 
+                  <hi>Ariſtotle's</hi> Academies he cannot away with, that is a deceit, and indeed ſo are all Arts and Sci<g ref="char:EOLhyphen"/>ences too with him, and that's the reaſon of his caring for our ſoules; chiefly to make us his proſelites, <hi>viz.</hi> barkers at the Moon, <hi>Momus</hi>-like. Sir, your Net is too narrow, it cannot overſpread us in this; for do we not read wiſer, and more learned Authors, (fuller fraught with reaſon) who ſay, <hi>Stulti negligunt, &amp; contemnunt Aſtrologiam, qui contradicit, ambitioſus eſt, qui maledicit, fa<g ref="char:EOLhyphen"/>tuus,</hi> Fools neglect and deſpiſe Aſtrology, and he is ambitious that gainſayes it, &amp;c. And again, <hi>qui artem aliquam deſtruit, longe deterior est imperito, nec vacat mens illius ma<g ref="char:EOLhyphen"/>litia, deſidia, &amp; ignorantia,</hi> He that deſtroys any Art, is far worſe than he that is unskil<g ref="char:EOLhyphen"/>full, for his mind is neither empty of ma<g ref="char:EOLhyphen"/>lice, deceit and ignorance. Mr. <hi>B.</hi> let it be your ſtudy to contemplate theſe ſayings of the Antients, and then I am ſure you will have no need to trouble your ſelf with our ſouls; I have been the larger, becauſe I would take you off this care.</p>
+               <p>But God give me grace to truſt my ſoul to his care, for he doth provide for his ſer<g ref="char:EOLhyphen"/>vants ſouls Angels to attend them, (not Prieſts) which ſhall be carefull to bear them up in all good things, and to make them flee evil things. And for this
+<pb n="10" facs="tcp:119792:25"/>cauſe would I adviſe my Antagoniſt to ad<g ref="char:EOLhyphen"/>dreſſe himſelf to God, for a ſpeedy care of his own ſoul, not to trouble himſelf with the ſouls of others, it being ſo poor a kind of imployment, hee's like to merit not ſo much as thanks for his labours; and thus much for this piece of paſſion.</p>
+            </div>
+            <div n="4" type="part">
+               <head>The fourth part of Paſsion examined.</head>
+               <p>MY Antagoniſt is ſtill an Apologizer, for now he deſires, as he hath writ without prejudice, ſo we would read it.</p>
+               <p>If you have writ without prejudice, what need have you to apologize for your ſelf? but Sir, on the other ſide (I muſt tell you) I had not known (nor any elſe) any preju<g ref="char:EOLhyphen"/>dice you had taken but by your writing, ſo here is a plain ſelf-contradiction, for had you had no prejudice by the Art, or lovers of it, 'twere a fond thing in you, to preju<g ref="char:EOLhyphen"/>dice that, which did not prejudice you: but to be ſhort, it appears the Art was your pre<g ref="char:EOLhyphen"/>judicer, &amp; you to make amends, would pre<g ref="char:EOLhyphen"/>judice it again, a good requital, but not like <hi>Pauls</hi> rule in the <hi>Romans.</hi>
+               </p>
+               <p>The prejudice in writing is a demon<g ref="char:EOLhyphen"/>ſtration of your prejudice in reading, therefore doe not flatter, but deal ho<g ref="char:EOLhyphen"/>neſtly, and then we find nothing but a prejudice taken againſt this diviner Sci<g ref="char:EOLhyphen"/>ence.</p>
+               <pb n="11" facs="tcp:119792:25"/>
+               <p>O Sir was it not the Soul-ſorrow of <hi>Hermes Triſmegiſtus</hi> to lament the conditi<g ref="char:EOLhyphen"/>on of <hi>Aegypt</hi> in ſo bewailing a manner, <hi>viz.</hi> 
+                  <label type="milestone">
+                     <seg type="milestoneunit">☜ </seg>
+                  </label> O <hi>Aegypt,</hi> there remains only the ſtories of learning in thee, the Divinity of Sciences is returned into Heaven, and only perverſe and ignorant men ſhall a<g ref="char:EOLhyphen"/>bide on earth, inſomuch that he that would apply himſelf to the true ſtudy of learning, ſhall be puniſhed with death, &amp;c.</p>
+               <p>Implying a paucity or dearth of the true learning, or learners was to befal the <hi>A<g ref="char:EOLhyphen"/>gyptians,</hi> whom the Father of the faithful, and <hi>Moſes</hi> a ſervant of God, and many others, as <hi>Ioſephus</hi> reports, had labou<g ref="char:EOLhyphen"/>red (by their ſublimer skill) to inſtruct them in.</p>
+               <p>And ſhall it not be the curſe of our <hi>En<g ref="char:EOLhyphen"/>liſh</hi> Nation, to have the Schools of Litera<g ref="char:EOLhyphen"/>ture broken down? I mean the uſefull of all humane learning, <hi>viz.</hi> the ſubject of this diſcourſe, which Mr. <hi>B:</hi> would have roured out of the hearts of men, and
+<note n="*" place="margin">Hear the holy mans diſſimula<g ref="char:EOLhyphen"/>tion.</note> yet he hath written againſt it without prejudice, a like<g ref="char:EOLhyphen"/>ly thing, he can do ſo, and yet rail
+<note n="*" place="margin">Learned men eſteem Learning of greater worth.</note> a<g ref="char:EOLhyphen"/>gainſt all humane learning, and <hi>Ariſtotle</hi>'s Academies, in ſo many places as he doth, I may not, I cannot beleeve him, in this, though he be a Miniſter of the Goſ<g ref="char:EOLhyphen"/>pel.</p>
+               <p>But again, he hath not writ out of a bit<g ref="char:EOLhyphen"/>ter ſpirit; his <hi>Ipſe Dixit</hi> cannot command my credence here; for I may not in this believe him neither, unleſſe he can aſſure me of the conſtant ſweetneſſe his ſpirit is
+<pb n="12" facs="tcp:119792:26"/>poſſeſſed with, (which few presbyters are now a dayes) if he cannot do ſo, I may conclude his ſpirit,
+<note place="margin">Rev. 10.</note> (I am ſure his words are) as bitter as the Book that <hi>Iohn</hi> eat. But what may be the reaſon of this Gentle<g ref="char:EOLhyphen"/>mans paſſion? Sure I believe, he had ♈ <hi>Aries</hi> the day-houſe of
+<note n="*" place="margin">♂ is na<g ref="char:EOLhyphen"/>turally cholerick.</note> ♂ <hi>Mars</hi> horoſco<g ref="char:EOLhyphen"/>pical at birth, which makes him thus ex<g ref="char:EOLhyphen"/>ceed in choler; that he may not write out of a bitter ſpirit next time he writes, I adviſe him to conſult his <hi>Ephemerides,</hi>
+                  <note n="*" place="margin">A choiſe Election of time is a jewel of ineſtimable value.</note> and ſee what aſpect <g ref="char:Moon">☽</g> the <hi>Moon</hi> hath to ♂, or whe<g ref="char:EOLhyphen"/>ther ♂ tranſit the degree of his birth, and if he ſee his ſignificator free, and the aſcen<g ref="char:EOLhyphen"/>dant alſo, I warrant him then he writes not ſo paſſionately next time.</p>
+               <p>If the Gentleman write ſo paſſionately, and write but ſeldom, I wonder how he doth preach, ſure as furiouſly as <hi>Jehu</hi> drove; I wiſh I lived a little neerer him, that I might ſometimes hear how waſpiſhly he endeavoureth to beget ſouls to God; but I deſcend.</p>
+            </div>
+            <div n="5" type="part">
+               <head>The fifth part of Paſsion examined.</head>
+               <p>NOw Mr. <hi>B.</hi> begins to deſcend to par<g ref="char:EOLhyphen"/>ticulars, and ſaith, That ♃ <hi>Jupiter</hi> and ☿ <hi>Mercury</hi> are the <hi>Daemons</hi> the Scripture ſpeaks of. True it is, the Scripture makes mention of the <hi>Lyſtrians</hi> love to gods Ser<g ref="char:EOLhyphen"/>vants,
+<pb n="13" facs="tcp:119792:26"/>
+                  <hi>viz. Paul</hi> and <hi>Barnabas,</hi> and how they were reputed Gods (comparatively) for the good tydings they brought them, but what of this? ſuppoſe they had bowed the knee before them, nay, heart and all, are they therefore <hi>Daemons?</hi> no wiſe man will ſo determine. Inſtance — Mr. <hi>Brayne</hi> being a Divine, hath
+<note n="*" place="margin">For to pretend to the Theo<g ref="char:EOLhyphen"/>ry, and not be capable of the Practick, is a ſign of a Bungler, and not an Artiſt.</note> ſtudied Aſtrology, is Mr. <hi>B.</hi> therefore an Aſtrologer? No, this will not follow as a neceſſary conſe<g ref="char:EOLhyphen"/>quent, unleſſe he had ſtudied it, as to have practiſed it too. Now to Mr. <hi>B</hi>'s argu<g ref="char:EOLhyphen"/>ment, <hi>viz.</hi> The <hi>Lyſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ans</hi> call <hi>Paul</hi> and <hi>Bar<g ref="char:EOLhyphen"/>nabas,</hi> ♃ and ☿; therefore ♃ and ☿ are the <hi>Daemons</hi> the Scripture ſpeaks of.</p>
+               <p>A Gentleman of <hi>Utopia</hi> ſayes Mr. <hi>B.</hi> be<g ref="char:EOLhyphen"/>ing a Prieſt, muſt therefore be a Tith<g ref="char:EOLhyphen"/>monger; then by this rule all Prieſts are Tith-mongers, which aſſertion is abſolute<g ref="char:EOLhyphen"/>ly untrue in many godly Divines in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who Preach often, and yet receive no Tithes at all, nay, I warrant Mr. <hi>B.</hi> him<g ref="char:EOLhyphen"/>ſelf would be ready to call it a <hi>non-ſequitur,</hi> though I dare hardly do it as to him.</p>
+               <p>Now I pray let this be conſidered in reaſon, and we ſhall quickly ſee, how little reaſon Mr. <hi>B.</hi> hath to call ♃ or ☿ <hi>Daemons,</hi> for the <hi>Ly<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ans</hi> kindneſſe to <hi>Paul</hi> and <hi>Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>na<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as:</hi> Were it a fault in the <hi>Lyſtrians</hi> (as indeed I dare not excuſe them) yet I be<g ref="char:EOLhyphen"/>lieve Mr. <hi>B.</hi> is, or hath been guilty of ſuch kind of Heatheniſm; for Mr. <hi>B.</hi> was one of <hi>Canterbury</hi>'s adopted ſtriplings, and aſ<g ref="char:EOLhyphen"/>ſuredly, formerly hath made as great Idols of the King and the little Biſhop, in his
+<pb n="14" facs="tcp:119792:27"/>Prayers to his Sermons, as the <hi>Lyſtrians</hi> could of <hi>Paul</hi> and <hi>Barnabas,</hi>
+                  <note place="margin">I muſt judge cha<g ref="char:EOLhyphen"/>ritably; for the Hea<g ref="char:EOLhyphen"/>then are Chriſts he<g ref="char:EOLhyphen"/>ritage.</note> nay I beleeve the <hi>Lyſtrians</hi> in this point may take the up<g ref="char:EOLhyphen"/>per hand of our Presbyters; for theſe being in the miſt of ignorance, could embrace a clearer diſcovery of God, and repute the Ambaſſadors gods, comparatively, for bring<g ref="char:EOLhyphen"/>ing them ſuch glad tydings, confirm'd with miracles, whereas our Presbyterian Zealots ignorantly eſtabliſhed a Religion, brought out of <hi>Scotland</hi> in a cloak-bag, and never ſtood to ſearch or examine its bottom, or foundation, where 'tis to be ſup<g ref="char:EOLhyphen"/>poſed theſe <hi>Lyſtrians</hi> would, had not <hi>Paul</hi> and <hi>Barnabas</hi> confirm'd their doctrine with miracles.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quaere </seg>1</label> Whether the <hi>Lyſtrians</hi> ought not in con<g ref="char:EOLhyphen"/>ſcience to be vindicated for embracing a ground ſo ſure? and our Zealots con<g ref="char:EOLhyphen"/>demn'd, for receiving a form of Religion, and not to ſift it at all?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quaere. </seg>2</label> Whether theſe <hi>Lyſtrians</hi> may not be ter<g ref="char:EOLhyphen"/>med the more godly, for honouring Gods Meſſengers? and our Antagoniſt ungodly, for terming them Heathens?</p>
+               <p>Nay (I beleeve) ſhould our State con<g ref="char:EOLhyphen"/>fer on this our Prieſt a Benefice of 3 or 400 <hi>l. per annum,</hi> he would think it no branch of Heatheniſm to do them the like (if not more) Honour.</p>
+               <p>
+                  <hi>Thou that abhorreſt Idols,</hi>
+                  <note place="margin">Rom. 2.</note> 
+                  <hi>doeſt thou com<g ref="char:EOLhyphen"/>mit ſacrilege? doeſt thou preach a man muſt nor ſteal, and doeſt thou ſteal?</hi> Mr. <hi>B.</hi> learn to know, that he that is no good pattern, can never be a good Paſtor.</p>
+            </div>
+            <div n="6" type="part">
+               <pb n="15" facs="tcp:119792:27"/>
+               <head>The ſixth part of Paſsion examined.</head>
+               <p>HEre my Antagoniſt will prove himſelf a <hi>Zoile,</hi> or <hi>Momus,</hi> a barker againſt the <g ref="char:Moon">☽</g> 
+                  <hi>Moon.</hi>
+               </p>
+               <p>The <hi>Moon</hi> 
+                  <g ref="char:Moon">☽</g> (ſaith he) is the Goddeſſe of the <hi>Epheſians;</hi> which neither tradition nor experience reacheth him, neither gi<g ref="char:EOLhyphen"/>veth he any reaſon at all for it, but
+<note n="*" place="margin">A female reaſon, God knows.</note> be<g ref="char:EOLhyphen"/>cauſe ſhe is by ſome called <hi>Diana,</hi> as if there were no more <hi>Diana</hi>'s but one: this is a meer <hi>non ſequitur,</hi> and among School-boys deſerves the laſh. But to my examina<g ref="char:EOLhyphen"/>tion.</p>
+               <p>The <g ref="char:Moon">☽</g> is ſometimes called <hi>Luna,</hi> by ſome <hi>Cynthia,</hi> and <hi>Phoebe,</hi> and by others <hi>Lucina,</hi>
+                  <note place="margin">Here a lit<g ref="char:EOLhyphen"/>tle Logick would have ſtood my Anta<g ref="char:EOLhyphen"/>goniſt in ſteed.</note> &amp; <hi>Latona,</hi> and by many <hi>Noctitura</hi> and <hi>Pro<g ref="char:EOLhyphen"/>ſerpina,</hi> ſhe hath all theſe names, and more, as well as <hi>Diana;</hi> but all theſe do not make her Goddeſſe of the <hi>Epheſians.</hi>
+               </p>
+               <p>The truth is, ſhe hath all theſe Feminine names given her, becauſe ſhe is a Feminine Planet; but they will not (as I ſaid before) make her Goddeſſe of the <hi>Epheſians,</hi> and for theſe reaſons:</p>
+               <p n="1">1. Firſt, the Goddeſſe of the <hi>Epheſians</hi> ſtood up in a Temple made with hands, and was adored beyond the <hi>Moon</hi> 
+                  <g ref="char:Moon">☽</g>, while ſhe kept her horn'd mutations, moving a<g ref="char:EOLhyphen"/>bout this maſſie Globe of Earth (whoſe Planet ſhe is) but <hi>Diana</hi> of the <hi>Epheſians</hi>
+                  <pb n="16" facs="tcp:119792:28"/>was kept like St. <hi>Coneve<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f</hi> in <hi>France,</hi> only ſomething more honourable; for this <hi>Dia<g ref="char:EOLhyphen"/>na</hi> had a Temple very glorious, and alone, in which ſhe ſtood, and the other, <hi>viz.</hi> St. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> ſtood in a Church among other Statues, having only a ſhrine before her; therefore <g ref="char:Moon">☽</g> was not that Goddeſſe.</p>
+               <p n="2">2 Secondly, this <hi>Diana</hi> was a Cuſtomer to <hi>Demetrius,</hi> and the craftſ-men, who made ſilver ſhrines for her, but I never heard, nor read, that <hi>Demetrius</hi> or any other made any for the <hi>Moon;</hi> for ſhe never had ſhrine before her; ſometimes the Earth is a ſhroud unto her, and hinders her from the <hi>Sun</hi>'s glory, as at an Eclipſe; but no ſhrine at all hath ſhe, therefore <g ref="char:Moon">☽</g> is not the Goddeſſe of the <hi>Epheſians.</hi>
+               </p>
+               <p n="3">3 Thirdly, the <g ref="char:Moon">☽</g> 
+                  <hi>Moon</hi> was no Goddeſſe (unleſſe men would be ſuch Idolaters to call her ſo) made with hands, ſo was this <hi>Dia<g ref="char:EOLhyphen"/>na</hi> of the <hi>Epheſians;</hi>
+                  <note place="margin">Acts 19.26.</note> for <hi>Paul</hi> preaching them to be no Goddeſſes that are made with hands, gains the ill will of <hi>Demetri<g ref="char:EOLhyphen"/>us</hi> and the craftſ-men at the 27 verſe, who are there crying out, <hi>Our trade is not only in danger, but alſo the Temple of the great Goddeſs</hi> Diana, <hi>whom all</hi> Aſia, <hi>and the world adoreth;</hi> therefore the <g ref="char:Moon">☽</g> is none of this wooden Goddeſſe.</p>
+               <p>Poor Gentleman, that ſhould heap up Errors for Truth! what, a Miniſter of the Goſpel, and no better reaſon? in earneſt he appears a diminiſher of it rather; for Miniſters uſually write or ſpeak rational<g ref="char:EOLhyphen"/>ly, but this man <hi>Cu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us contrarium;</hi> I am
+<pb n="17" facs="tcp:119792:28"/>bold to ſpeak it, if he be a Miniſter, he is ſo ſingular, that I know not where to pa<g ref="char:EOLhyphen"/>rallel him, and yet I know <hi>Oxford.</hi>
+               </p>
+            </div>
+            <div n="7" type="part">
+               <head>The ſeventh part of Paſsion examined.</head>
+               <p>THis is ſo intolerable a piece of folly, that I am aſhamed almoſt to take no<g ref="char:EOLhyphen"/>tice of it, but ſince he hath writ it for ſo ab<g ref="char:EOLhyphen"/>ſolute a truth, in vilification of the Planet ♂ <hi>Mars,</hi> I ſhall inſert his fiction, and then examine it.</p>
+               <p>
+                  <hi>Athens, i. e.</hi> the City <hi>Athens,</hi> was ♂ <hi>Mars,</hi> hill, ſaith my Antagoniſt, and this he urges (for it comes not kindly of it ſelf) from the 17 of <hi>Acts,</hi> ver. 22. That <hi>Athens</hi> is ☌ hill, is as true as <g ref="char:Moon">☽</g> the <hi>Moon,</hi> is goddeſſe of the <hi>Eph<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſians,</hi> and both alike demonſtrable. I cannot but grant this <hi>Athens</hi> (being a great City) might probably have ſuch a place as ♂ hill in it,
+<note place="margin">If ever my Antagoniſt commenc'd Maſter of Arts, he muſt know there can be no Art without Reaſon.</note> o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a place called ♂ hil, (for ſo ſome tranſlations render the words there) what then? doth it follow that all <hi>Athens</hi> muſt be ♂ hill therefore? no, it doth not: For to inſtance in a like thing, here is <hi>London</hi> hath a place in it cal<g ref="char:EOLhyphen"/>led <hi>Snow</hi>-hill, ſhall it, or can it handſom<g ref="char:EOLhyphen"/>ly be inferred, that <hi>London</hi> is <hi>Snow</hi>-hill, when we know that <hi>Snow</hi>-hill is but a lit<g ref="char:EOLhyphen"/>tle part of <hi>London?</hi>
+               </p>
+               <pb n="18" facs="tcp:119792:29"/>
+               <p>'Tis impoſſible to me that the greater ſhould be comprehended of the leſſer, but for the greater to comprehend is no rarity; but this ♂ <hi>Mars</hi> hill as <hi>Paul</hi> ſpoke on, was more properly called the Court of the <hi>Areopagites,</hi> for ſo the Margin reads it.</p>
+               <p>I doubt my Antagoniſt wanted the help of a pair of Spectacles, to have given him ſight, for his eyes were dim; I wonder a Miniſter ſhould write thus illogically: I refer him to Mr <hi>Cokes</hi> Book of Art Logique againſt he writes the next heap of Non<g ref="char:EOLhyphen"/>ſenſe. And thus I leave his ſeventh part of Paſſion.</p>
+            </div>
+            <div n="8" type="part">
+               <head>The eight part of Paſſion exa<g ref="char:EOLhyphen"/>mined.</head>
+               <p>MY Antagoniſt faults the <hi>Athenians</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> calling <hi>Pauls</hi> preaching, a ſetting forth of ſtrange <hi>Daemons,</hi> ſo do I, (for <hi>Pauls</hi> Doctrine was not backt on with a frozen Presbyterian zeal) fault wor<g ref="char:EOLhyphen"/>thy they are, but if thoſe who were Heathens, be thus to be blamed for ſpur<g ref="char:EOLhyphen"/>ning againſt that, which to them was a fallacy, though true in it ſelf, May not my Antagoniſt (and the reſt of his fun<g ref="char:EOLhyphen"/>ction) be likewiſe blamed for commit<g ref="char:EOLhyphen"/>ting the ſame error?</p>
+               <p>The <hi>Athenians</hi> call <hi>Pauls</hi> preaching a ſtrange thing to them ('tis like ſo it was)
+<pb n="19" facs="tcp:119792:29"/>our
+<note n="*" place="margin">Some of them, o<g ref="char:EOLhyphen"/>thers are more wiſe.</note> Prieſts of our time call Gods coming in any way but the Pulpir road, a ſtrange thing to them, all ways contrary to their ways are falſe ways and Diabolical, if they have not the power to lead men about by the noſe, then they roar, if any Chriſtian<g ref="char:EOLhyphen"/>like Art flouriſh beſides theirs,
+<note place="margin">I grant Di<g ref="char:EOLhyphen"/>vinity to be the firſt Chriſtian Art.</note> then they bellow.</p>
+               <p>Every thing is an <hi>ignis fatuus,</hi> but their preaching (and that is not always Goſpel) all is Diabobical that is not as they would have it, but nevertheleſſe I will ask one thing of them, and the reſolve of this will diſcover which is generally moſt ho<g ref="char:EOLhyphen"/>neſt, the prieſt or Artiſt, <hi>viz.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quaere. </seg>1</label> Whether the ſtrict Prieſts with their poyſonous tongues, have not cauſed more bloudſhed in the Kingdom, and more diſ<g ref="char:EOLhyphen"/>honour to God, than the Artiſt hath by his Predictions?</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quaere. </seg>2</label> And whether hath not the Artiſt been the deſcrier of an impending Evil, which all men (in ſome meaſure) might have mi<g ref="char:EOLhyphen"/>tigated, according to the Proverb, <hi>viz. A fore-warning is a fore-arming?</hi> And hath not the Artiſt's predictions been an Anti<g ref="char:EOLhyphen"/>dote againſt the evil the Prieſts
+<note n="*" place="margin">
+                     <hi>Conſult M.</hi> Love's Uxbridge <hi>Sermon,</hi>
+                  </note> tongues (like Trumpets) had broached, yet will they alwayes be medling, let them alone with <hi>Ephraim,</hi> if happily they may re<g ref="char:EOLhyphen"/>pent?</p>
+               <p>If you wonder at that word <hi>ſtrict Prea<g ref="char:EOLhyphen"/>chers,</hi> you may take notice, that ſome were more godly, though not ſo ſtrict; <hi>i. e.</hi> not ſo full of perſecuting zeal, of
+<pb n="20" facs="tcp:119792:30"/>which party are many worthy Divines,
+<note place="margin">
+                     <hi>The reve<g ref="char:EOLhyphen"/>rend ortho<g ref="char:EOLhyphen"/>dox Di<g ref="char:EOLhyphen"/>vine is worthy of mor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ho<g ref="char:EOLhyphen"/>nour <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n Mr.</hi> C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>la<g ref="char:EOLunhyphen"/>mies <hi>El<g ref="char:EOLhyphen"/>ders.</hi>
+                  </note> whom I reverence with my heart, among whom are Reverend Doctor <hi>Gell,</hi> a Reve<g ref="char:EOLhyphen"/>rend Orthodoxal Gentleman, and may equal the graveſt Presbyter for learning, even Mr. <hi>Gataker</hi> of <hi>Redriff.</hi> A ſecond is Mr. <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eve,</hi> who was a right bred Scholar, conſult his Sermon, entituled, <hi>The now Je<g ref="char:EOLhyphen"/>ruſalem,</hi> elſe. A third is Doctor <hi>Swadling,</hi> an admirable, and very ingenuous Gentle<g ref="char:EOLhyphen"/>man. All theſe, and many more, are as great-ſticklers for Aſtrology, as the grave Mr. <hi>Gataker,</hi> and furious Mr. <hi>Calamie,</hi> and the reſt of the Brethren in perſecuting zeal are carpers againſt it; But what are theſe carpers? truly ſuch that cannot chuſe but broach their malice againſt what they are not affected with; Are they not therefore like
+<note n="*" place="margin">Love<g ref="char:EOLhyphen"/>ſick people are always paſſionat.</note> people in love, who are led more by affection, than reaſon? ſurely yes, if ſo, then thoſe that are led more by reaſon, than affection, are to be truſted unto before them.</p>
+               <p>Wherefore will I beleeve theſe fore<g ref="char:EOLhyphen"/>mentioned ingenuous Gentlemen, before the other, and deſire Mr. <hi>B.</hi> to find three ſuch among his whole ſociety of Brethren, of the like converſation for Doctrine and example, and this ſhall be his reward, <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t mihi magnus Apollo,</hi> as great <hi>Apollo</hi> he ſhall be to me, for theſe are men hating cove<g ref="char:EOLhyphen"/>touſneſſe, fearing God, not in <hi>verbis,</hi> but in <hi>rebus;</hi> here are qualifications worthy of double honour, had Mr. <hi>B.</hi> had theſe, I ſhould not have found him a Detractor
+<pb n="21" facs="tcp:119792:30"/>from the worth of ſo noble a Science as Aſtrology, &amp;c.</p>
+            </div>
+            <div n="9" type="part">
+               <head>The ninth part of Paſsion examined.</head>
+               <p>MY Antagoniſt now is paſſionate to purpoſe, hitherto he hath but carped at men, but now in this ſtrange paſſion at the Saviour of men, even our Lord Je<g ref="char:EOLhyphen"/>ſus.</p>
+               <p>Heavens protect us, that this Atheiſtical tenet have no influence on us, for I am ſure by every honeſt Aſtrologer, tis explo<g ref="char:EOLhyphen"/>ded, as diabolical, and blaſphemous, and diabolical, becauſe blaſphemous; the thing in it ſelf is ſo horrid, that my Conſcience tels me, tis almoſt a ſin to name it: but ſeeing my Antagoniſt hath endeavoured to make Aſtrology the father of it, 'twill not be amiſſe to ſet the ſaddle upon the right horſe, <hi>viz.</hi> theſe Men-gods had their Stars (ſaith he) which they were ſuppoſed to be in after death, and thereby to act on men while they were alive, and having no ground in Judicial Aſtrology to back on (or countenance) his Heatheniſh opinion, endeavours to prove it by <hi>Matt.</hi> 2. verſe 2. <hi>Where is he that is born King of the</hi> Iews? <hi>we have ſeen his Star, and are come to worſhip him;</hi> from theſe words he argues thus,</p>
+               <p>The King, ſaith he, is diſtinct from the
+<pb n="22" facs="tcp:119792:31"/>Star, ſo that there is the <hi>Daemon,</hi> or Heroe his Star, the doctrine of the <hi>Daemon</hi> and the Aſteriſme ſo prove one another, that the one being granted, the other cannot be denyed.</p>
+               <p>Oh profound Logician!
+<note place="margin">
+                     <hi>Jeſus Chriſt is the King of Glory; and therefore no under<g ref="char:EOLhyphen"/>prop to the</hi> Daemon <hi>doctrine.</hi>
+                  </note> but ſurely had he been diſputing with any Chriſtian A<g ref="char:EOLhyphen"/>ſtrologer, he'd hardly a granted him ei<g ref="char:EOLhyphen"/>ther, his argument is ſtated ſo illogical<g ref="char:EOLhyphen"/>ly.</p>
+               <p>The King (that is our glorified Saviour) is diſtinct from the Star; If by this he means, That Chriſt, as King, is diſtinct from the Star, I deny his aſſertion, and he himſelf cannot prove it. For Chriſt as King, is no wayes unlike the Father; the Father is omni-preſent; <hi>Ergo,</hi> Chriſt the King is not diſtinct from the Star, but as he is the bright and morning ſtar, is in u<g ref="char:EOLhyphen"/>nion with all ſtars and beings, created and uncreated. Chriſt the child, as born of a Virgin, conſidered in his humanity, may be ſaid to be diſtinct, but improperly be<g ref="char:EOLhyphen"/>cauſe the brightneſſe of the Fathers glory reſted on him. Now Sir, your major be<g ref="char:EOLhyphen"/>ing thus denyed, if you now cannot make it good,
+<note n="*" place="margin">
+                     <hi>Chriſt ſhall he preſent, when Mr.</hi> B. <hi>ſhall be the pre<g ref="char:EOLhyphen"/>terperfect lenſe.</hi>
+                  </note> your Concluſion falls immediatly to the ground.</p>
+               <p>But 'tis a main argument, this my Anta<g ref="char:EOLhyphen"/>goniſt was diſputing by himſelf, having no oppoſer, but his Conſcience, (and that was ſeared) elſe ſure he would never have gone about to have eclipſed the omni-preſency of our bleſſed Saviour: I am afraid this ſavours ſomething of <hi>Julian</hi>'s apoſtacy, I
+<pb n="23" facs="tcp:119792:31"/>adviſe him therefore to take heed how he ſpit againſt Heaven, leſt it fall into his own face; I hope this is no ſin againſt the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, but ſure I am, 'tis a ſin that car<g ref="char:EOLhyphen"/>ries much guilt along with it, and if Gods mercy be not the greater, it may ſink a man even to the loweſt pit.</p>
+               <p>But to our diſcourſe, we ſay that God did never ſhew any wonderfull ſign in heaven, but it was the premonſtrator of moſt eminent changes on Earth, as to im<g ref="char:EOLhyphen"/>ſtance in that moſt incomparable ſign of Heaven 42 years before the Birth of Chriſt, in the time of <hi>Auguſtus Caeſar;</hi> ſome thought it to be the clear Comet which ſhould eſta<g ref="char:EOLhyphen"/>bliſh the Kingdom of Peace; others took it to be that Star, in which <hi>Sybilla Tyburti<g ref="char:EOLhyphen"/>na</hi> ſhewed <hi>Auguſtus Caeſar</hi> the Image of a beautiful Virgin, holding a boy in her bo<g ref="char:EOLhyphen"/>ſom, and ſaying, This Child is greater than thou, worſhip him. All conclude it to be a ſign of our Saviours comming, and undoubtedly ſo it was; Elſe why ſhould <hi>Mantuan,</hi> (ſpeaking of the fore-mentioned <hi>Sybill</hi>) preſſe it ſo home to <hi>Auguſtus Caeſar? viz.</hi>
+               </p>
+               <q>
+                  <l>
+                     <hi>Auguſtus Caeſar</hi> let thy haughtineſs</l>
+                  <l>Be la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d aſide, what though thou rul'ſt the earth,</l>
+                  <l>Thou must remember that thou art much leſs,</l>
+                  <l>And art his
+<note n="*" place="margin">That is Chriſts Vaſſal.</note> vaſſal, brag not of thy birth,</l>
+                  <l>His power is infinite, and rules on high,</l>
+                  <l>All things are under his authority.</l>
+               </q>
+               <p>But to come neerer home to our remem<g ref="char:EOLhyphen"/>brances,
+<pb n="24" facs="tcp:119792:32"/>what ſtrange Mutations have we had in <hi>England,</hi> ſince the great ♂ <hi>conjun<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tion <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> ♄ <hi>Saturn</hi> and ♃ <hi>Jupiter,</hi> in 1642/3 to let alone the Comet in 1618, and many impregnab<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> proofs which we could, if need were, inſert, but that unuſual ♂ <hi>con<g ref="char:EOLhyphen"/>junct<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th ſome Eclipſes of the Lumi<g ref="char:EOLhyphen"/>naries <gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e, have turn'd <hi>England</hi> upſide<g ref="char:EOLhyphen"/>down, and what think we? hath the Eclipſe of ☉ <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sun</hi> in <hi>March</hi> 1652, and the Co<g ref="char:EOLhyphen"/>met in <hi>December</hi> the ſame year effected no<g ref="char:EOLhyphen"/>thing? Surely Envy cannot be ſo blind, as not to take notice of it: for compare but the writings of Aſtrologers, and the times together, and ſee how like they look, as like as twins that came out of the ſame womb.</p>
+               <p>But that my own <hi>Ipſe D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xit</hi> may not paſſe, I ſhall tell my Antagoniſt what a Divine ſaith of the prodigies of heaven,
+<note place="margin">
+                     <hi>Molineux de Praecog<g ref="char:EOLhyphen"/>nos, ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n.</hi> 7 <hi>pag.</hi> 160.</note> 
+                  <hi>Non eſt negandum, &amp; coeleſtia vel acria oſtenta ſaepe fuiſſe praenuntia calamitatum,</hi> We may not deny, ſaith he, but that Celeſtial or a real prodigies, are many times the meſſengers of Calamities. But further,</p>
+               <p>
+                  <hi>Nec eſt quiſquam, niſi cujus animus ab re<g ref="char:EOLhyphen"/>ligione plane obrubuit, qui ad fulmina &amp; fra<g ref="char:EOLhyphen"/>gorem tonitruum, aut cruenti Cometae aſpectum, non tangatur metu; Cometem qui dicitur Xi<g ref="char:EOLhyphen"/>phias portendere bella experimentis comproba<g ref="char:EOLhyphen"/>tum eſt, Pogoniam praeſignificare mortem Re<g ref="char:EOLhyphen"/>gum; qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m ominoſa fuerit Stella Cririta</hi> 1607. <hi>teſtantur tot calamitates urbium, Eccleſtarum projecta cadavera.</hi> Nor is there any, unleſs ſuch a one who hath no Religion, who is
+<pb n="25" facs="tcp:119792:32"/>not affrighted at lightning, and craſhing of thunder, and the ſight of an horrible Comet; A Comet like a Sword, we find by experience ſignifies War, A Comet with a beard portends the death of Kings; how ominous that blazzing ſtar in 1607 was, ſo many calamities of Cities, and deſo<g ref="char:EOLhyphen"/>lation of Churches well teſtifies. He ſaith not here the prodigious ſigns of Heaven are the foundation of the Demon Doctrine, nay, but rather that they are the Meſſengers of Calamities and wonderful mutations.</p>
+               <p>To any rational man I preſume 'tis cleat now (from what hath been ſaid) that the ſigns of Heaven are the precurſors of earth<g ref="char:EOLhyphen"/>ly changes; its apparent now that my Antagoniſt hath urged falſe aſſertions from the holy text in <hi>Matthew,</hi> I will refer him to the works of two learned Gentlemen, <hi>viz.</hi> Dr. <hi>Gell</hi> and Dr. <hi>Swadlin,</hi> who have learnedly explained the words, but draw no ſuch concluſions as M. <hi>B.</hi> doth, they make a more tranſcendent harmony,</p>
+               <p>Therefore I deſire all to take notice, that 'tis nor the Demon doctrine Aſtro<g ref="char:EOLhyphen"/>logers worſhip, or adore, ſome there are ('tis like) that are too ſuperſtitious in the practice of the Art, all Artiſts, and Art too, ought not to be blamed for this, for if the honeſt Art happen to be abuſed by ſome <hi>ſpuru (non veri) filii Artis,</hi> it hath but the ſame fortune Divinity hath, and the abuſe of an Art ought not to nullifie the uſe of an Art, and herein the Lawyers rule is to be conſidered as true, that <hi>Abuſus non
+<pb n="26" facs="tcp:119792:33"/>tollit uſum,</hi> but I have been too long up<g ref="char:EOLhyphen"/>on the paſſionate part, I am come now to the ſecond Section, which I called his rational part, which I ſhall briefly examine and ſo conclude.</p>
+            </div>
+            <div n="1" type="part">
+               <head>The firſt part of his Reaſon exa<g ref="char:EOLhyphen"/>mined.</head>
+               <p>AMonſtrous offence is here taken by my Antagoniſt, he is offended becauſe the days of the week, hours of the day, &amp;c. are called after the names of the Planets. I know no reaſon he hath for it, for if they were not called by the Planets names, they muſt be called by ſome other names, but in earneſt I know no names ſo proper for them, as thoſe they are called by, for in the Latine <hi>Lingua</hi> the days of the week are known by the Planets names and no other: as <hi>Die Solis</hi> Sunday, <hi>Die Lunae</hi> Monday, <hi>Die Martis</hi> Tueſday, <hi>Die Mercurii</hi> Wed<g ref="char:EOLhyphen"/>neſday, <hi>Die Jovis</hi> Thurſday, <hi>Die Vene<g ref="char:EOLhyphen"/>ris</hi> Friday, <hi>Die Saturni</hi> Saturday, 'tis ſo in all languages, why then ſhould they ſuffer a change? verily I wonder what names my Antagoniſt would give had he the rebaptizing of them, if he be offended, Let him give them better if he can, if he cannot, let him not diſcover his folly, for I am confident, thoſe that called the days of the week and hours of the day, (firſt)
+<pb n="27" facs="tcp:119792:33"/>after the names of the Planets, knew them more deſerving of that honour, than a ſneaking Tith-monger is of a fat be<g ref="char:EOLhyphen"/>nifice.</p>
+               <p>But the drift of Mr. <hi>B.</hi> is to nullifie our wholſome orders (I preſume) and pre<g ref="char:EOLhyphen"/>tends this is the way to Saintſhip, but if this be his way, I aſſure you he ſhall not have any company with him.</p>
+               <p>For I had had rather injoy the God of peace in order, than to be Sainted in Mr. <hi>B</hi>'s
+<note n="*" place="margin">Confuſion is a road too com<g ref="char:EOLhyphen"/>mon, and lies not near the narrow way, but leads men even the path-way of deſtru<g ref="char:EOLhyphen"/>ction.</note> confuſed manner. But its Heathe<g ref="char:EOLhyphen"/>niſm and indignity to God to call any of the Planets Lords, as the Aſtrologers doe in calling them the Lords of the Geni<g ref="char:EOLhyphen"/>tures, of Ecclipſes, of Houſes, &amp;c. (ſaith my Antagoniſt) but out of what <hi>Apocripha</hi> he learnt it, he ſatisfies not his Reader, I am ſure he hath no Scripture for it, nei<g ref="char:EOLhyphen"/>ther do I believe it to be any more Hea<g ref="char:EOLhyphen"/>theniſm, nor ſo much as 'twas to call a man a Lord-Biſhop, which was governed by them (as a ſecondary cauſe) for which is more honourable, my pen that is guided, or my hand that guids it.</p>
+               <p>But to come cloſer to the matter, 'tis Heatheniſm to call any one Lord, but God only, for he is the Lord of hoſts, and the only ruler of his People.</p>
+               <p>There are Gods many, and Lords many, but to us there is but one Lord, &amp;c. Will any one be ſo impudent as to confine or limit the Holy Ghoſt in this Expreſſion, when he ſaith, There are Gods many, and Lords many? doth he mean, that there
+<pb n="28" facs="tcp:119792:34"/>ſhould be none called Lords but God a<g ref="char:EOLhyphen"/>lone? or doth he mean, that none ſhould be called Lords and worſhipped like God who is the true Lord? I believe 'tis not the name Lord as the Holy-Ghoſt in, <hi>Paul</hi> was troubled (I ſpeak after the manner of men) but the idolizing of any one like a Lord is condemned there, and not the for<g ref="char:EOLhyphen"/>mer; for if it were idolatry to call any one Lord, then have all <hi>London</hi> been Idolaters many years, in calling a man their Lord-Mayor; and <hi>Sarah</hi> was likewiſe to be bla<g ref="char:EOLhyphen"/>med for calling <hi>Abraham</hi> Lord and Maſter; nay, <hi>Daniel</hi> the ſervant of the moſt high God was miſguided, in calling <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>buchad<g ref="char:EOLhyphen"/>nezzar</hi> (which was a Heathen) Lord and King.</p>
+               <p>Nay, I do believe Mr. <hi>B.</hi> cannot excuſe himſelf from this kind of Idolatry, but be it far from me to think that Idolatry ſhould conſiſt in this, I cannot be yoked with M. <hi>B.</hi> here. But further, let us conſider what the word Lord imports, in the Latine 'tis
+<note n="*" place="margin">
+                     <hi>Here Mr.</hi> B. <hi>wanted a Dictio<g ref="char:EOLhyphen"/>nary.</hi>
+                  </note> 
+                  <hi>Domine,</hi> and hath a double ſignifica<g ref="char:EOLhyphen"/>tion, and doth ſerve for the courteſie<g ref="char:EOLhyphen"/>complement, <hi>viz.</hi> Sir, as well as Lord. What abundant reaſon hath he then to find fault with this? ſure this is but a project come into his Brayn by the by. I would have him anſwer two Quaeries, <hi>viz.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quaere. </seg>1</label> Whether a man may not as lawfully uſe brevity, as prolixity; if ſo,</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Quaere. </seg>2</label> Whether we may not call them Lords, as well as Dominators or Governors? theſe latter conſiſting of two or three ſyllables
+<pb n="29" facs="tcp:119792:34"/>more than the word Lord. If the word Lord imports a Ruler, and no more, then the Aſtrologers have not erred in calling the Planets Lords, for if he be a Saint at one time or another, he may ſind them Lords too, if he have not a care, for that of the Poet is a true ſaying, <hi>viz.</hi>
+               </p>
+               <q>
+                  <l>The Stars and Planets often ſmile and lour,</l>
+                  <l>They heal, and hurt poor mortals every hour.</l>
+               </q>
+               <p>Now Mr. <hi>B.</hi> I would have you to acquaint your ſelf more with the vertues of Planets againſt your next <hi>Herculean</hi> task, for I am ſure ♄ <hi>Saturn</hi> had no hand in this, for he uſually effects matters more ſolid like him. This is ſomething of ſilver-wing'd ☿ <hi>Mer<g ref="char:EOLhyphen"/>cury,</hi> mixed with ♂ <hi>Mars,</hi> which made you ſo weather-cock Cholerick in theſe abſurd reaſonings. But I journey hence to your ſecond ſtep of reaſon.</p>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part of his Reaſon examined.</head>
+               <p>HEre it will not be amiſſe to note one ſmooth contradiction; ſeeing we have begun, we are reſolved to track him, for we have been blinded by ſmooth tongues too long; The very ſcope and drift of my Antagoniſts Bamplet, is to prove Aſtrolo<g ref="char:EOLhyphen"/>gy
+<pb n="30" facs="tcp:119792:35"/>a fable, a deceit, and that the World hath been
+<note n="*" place="margin">
+                     <hi>By the Prieſts, iſ he had ſaid</hi> 3000, <hi>he had not lyed.</hi>
+                  </note> deceived by it 300 years; yet a little further doth ingenuouſly confeſs, That the Stars (which are the Artiſts guide) have an influence upon theſe Earthy bo<g ref="char:EOLhyphen"/>dies of ours, as to change them from health to ſickneſs, and from ſickneſs to health a<g ref="char:EOLhyphen"/>gain; Nay, ſaith my Antagoniſt, the ear<g ref="char:EOLhyphen"/>thy part of a
+<note n="*" place="margin">A pure piece of Nonſenſe from a Prieſt.</note> Saint is not free from their influences, but they are alſo changed by them. If this latter be a truth, as he con<g ref="char:EOLhyphen"/>feſſes, (or elſe he muſt have ſaid nothing) and I affirm, then is not Aſtrology a de<g ref="char:EOLhyphen"/>ceit, a fable, for I would know by what means a man can come to know the times and ſeaſons, unleſſe by Aſtrology: the ſaying of <hi>Zanchius</hi> will be found true,
+<note place="margin">
+                     <hi>Zanc. de Aſtronom.</hi> 118.</note> 
+                  <hi>viz.</hi>
+               </p>
+               <p>
+                  <hi>Videmus enim effectus multos hic in terra, quorum Cauſas ignoramus, beneficio autem vtrae Aſtrologiae, cauſam ſuam at originem ſu<g ref="char:EOLhyphen"/>pra nos in Coelis habere cognoſcimus:</hi> We ſee many effects here on Earth, whoſe cauſes we are ignorant of, yet by benefit of true Aſtrology, we know they have a cauſe and production above us in the heavens.</p>
+               <p>If Aſtrology can ſatisfie us in the cauſes of thoſe various effects we ſee on earth, Aſtrology is not a deceit, but can do more than the bulk of Divinity that dwelt in the brains of the late Synod, or Mr. <hi>B.</hi> either, but Aſtrology can ſatisfie us in the cauſes of thoſe various effects we ſee on earth (ſaith <hi>Zanchius) Ergo,</hi>
+               </p>
+               <p>Again, if Aſtrologers, or men by Aſtro<g ref="char:EOLhyphen"/>logy,
+<pb n="31" facs="tcp:119792:35"/>can ſhew the times of ſickneſs, or health (as the Lord hath written them in his heavenly Book) either in the bodies of Saints, or carnal men; then is not Aſtro<g ref="char:EOLhyphen"/>logy a deceit, a fable; but Men by aſtro<g ref="char:EOLhyphen"/>logy may foretell the times of ſickneſs and health <hi>(Deo permittente)</hi> even in the bodies of Sains: Therefore Mr. <hi>B.</hi> is in the dark, and Aſtrology is no deceit.
+<note place="margin">
+                     <hi>Scotus lib.</hi> 2. <hi>de gene.</hi>
+                  </note> You ſhall heare what <hi>Scotus</hi> ſaith to this, which I preſume to be a man tranſcending Mr. <hi>B.</hi> in natural reaſonings, though Mr. <hi>B.</hi> 'tis like may be the greater Saint.</p>
+               <p>
+                  <hi>Hoc modo etiam innoteſcit, quod qui ſciret virtutem ſignorum, &amp; ſtellarum in eu poſita<g ref="char:EOLhyphen"/>rum dum naſoitur res aliqua, poſſet prognoſti<g ref="char:EOLhyphen"/>care de tota vita rei generatae licet hoc neceſſi<g ref="char:EOLhyphen"/>tatem non poneret, quia poſſet impedire per accidens.</hi> By this
+<note n="*" place="margin">Speaking of Aſtro<g ref="char:EOLhyphen"/>logy.</note> mean it comes to paſs, that he who knows the vertues of the Signes, and the Planets therein placed, may foretell (if he knew when any crea<g ref="char:EOLhyphen"/>ture was born) of the whole life of it.</p>
+               <p>Now you may ſee what a ſhaken reed my Antagoniſt is, that turns his head every way, hee'l ſometimes make a Saint an intire piece of holineſſe, and ſome<g ref="char:EOLhyphen"/>times he'll make him ſubject to a deceipt; but I am really perſwaded, That the re<g ref="char:EOLhyphen"/>al Saint is neither ſubject to deceipt or conceit, for if he ſhould, 'twould ſlain his robs of righteouſneſs. Do you not think now, that my Antagoniſt is not a fine con<g ref="char:EOLhyphen"/>verter of ſinners to Saints, that would
+<pb n="23" facs="tcp:119792:36"/>make Saints the worſt, (or as bad as the worſt) of them; What? a Saint, and ſub<g ref="char:EOLhyphen"/>ject to a deceit? It is no wonder now to me, that he cries out againſt all humane Arts, as Aſtrology, Philoſophy, Logique, <hi>Ariſtotles</hi> Accademies, and the like; for by his writing he ſhould not only be innocent (but ignorant) of them.</p>
+               <p>But why Aſtrology, or how Aſtrologers hath deceived the world this 300 years, I cannot gather; unleſs he
+<note n="*" place="margin">Here the Priests ſhoo pinch<g ref="char:EOLhyphen"/>ed him.</note> means by the word World, the Prieſthood; for God be thanked it hath pretty well deceived them, and in ſo doing undeceived the Commo<g ref="char:EOLhyphen"/>nalty; and in this kind of deceit, I think there is no ſin at all, For to deceive a de<g ref="char:EOLhyphen"/>ceiver is no deceit: But if Mr. <hi>B.</hi> means that Aſtrology hath generally deceived the World, I deny his aſſertion, and can find in Scripture but two ſorts of generall deceivers, and neither of them Aſtrolo<g ref="char:EOLhyphen"/>gers; but the Prieſt is <hi>primus</hi> here, and will take the upper hand, though the Law<g ref="char:EOLhyphen"/>yer may well be <hi>ſecundus,</hi> and goe along for company.</p>
+               <p>Did Aſtrology deceive the world, when the Prieſts eat up the fat things of the Land, as you read in the ſtory of <hi>Bel</hi> and the <hi>Dragon?</hi> or did not rather that divine Aſtrologer, <hi>viz.</hi>
+                  <note n="*" place="margin">See the divine Preſidents of Aſtro<g ref="char:EOLhyphen"/>gers.</note> 
+                  <hi>Daniel,</hi> who diſcovered the Prieſts knavery, undeceive them? Mr. <hi>B.</hi> read the Story, and contemplate it. Again, was it the Aſtrologers that had ſo fiery a zeal to raviſh a Daughter of <hi>Iſrael;</hi> nay 'twas the
+<note n="*" place="margin">
+                     <hi>I hope Mr.</hi> Cala<g ref="char:EOLhyphen"/>my <hi>hath more godly ones.</hi>
+                  </note> Elders rather, whom
+<pb n="33" facs="tcp:119792:36"/>our Divine Aſtrologers ſo juſtly condemn, read the ſtory of <hi>Suſanna</hi> impartially with the forementioned ſtory of Bell and the Dragon, and you will ſee 'tis not the A<g ref="char:EOLhyphen"/>ſtrologers but the Prieſts do excel in Luſt and Luxury: but I have been too large, I muſt be briefer in the reſt.</p>
+            </div>
+            <div n="3" type="part">
+               <head>The third part of his Reaſon exa<g ref="char:EOLhyphen"/>mined.</head>
+               <p>THe <hi>Zeal</hi> of my Antagoniſt hath devou<g ref="char:EOLhyphen"/>red his reaſon, elſe he being a Mini<g ref="char:EOLhyphen"/>ſter could not be unacquainted with what God condemns, for 'tis condemned of God as ſuperſtitious, to name the names of the Planets (ſaith he) but how he proves it, I cannot tell, if God con<g ref="char:EOLhyphen"/>demns it in Mr. <hi>B.</hi> and no where elſe, I ſhall take it to be one of his frolicks to belye God, for what God hath condem<g ref="char:EOLhyphen"/>ned as ſuperſtititious, he hath condemned in Scripture, but God hath not condem<g ref="char:EOLhyphen"/>ned the naming of the Planets names as ſuperſtitious in Scripture, therefore God hath not condemned it.</p>
+               <p>I am ſorry that the name of God ſhould be brought along to accompany untruths ſo frequently as Mr. <hi>B.</hi> brings it, the Lord in mercy pardon the Offender.</p>
+               <p>I had thought Superſtition had not conſiſted ſo much in word as Obſervati<g ref="char:EOLhyphen"/>on,
+<pb n="34" facs="tcp:119792:37"/>and this is <hi>Pauls</hi> definition of it,
+<note place="margin">
+                     <hi>Acts</hi> 17. <hi>v.</hi> 22.</note> 
+                  <hi>Ye men of Athens</hi> (ſaith he) <hi>I perceive that in all things ye are too ſuperſtitious.</hi> he doth not ſay in words, but blames them for their Superſtition, it being a Cuſtome with them all, either to tell or hear ſome new thing according to their way of Wor<g ref="char:EOLhyphen"/>ſhip, for at the 16 verſe the Spirit of <hi>Paul</hi> was ſtirred up, when he ſaw the whole City was given to Idolatry; Idolatry, what's that? why the Margin reſolves it, the whole Citty was full of Idolls, and for men to worſhip Idols, or to acknow<g ref="char:EOLhyphen"/>ledge them Gods that are made with hands, by their bowing the knee to them; this is Idolatry indeed, and no other kind of Idolatry do I read of, in the Book of God, or the works of antient and mo<g ref="char:EOLhyphen"/>dern writers, but for to name the name of a Planet I find no evil therein. I pray God give us all a true underſtanding of the names and natures of them, that (un<g ref="char:EOLhyphen"/>der God) we may know their powers, in<g ref="char:EOLhyphen"/>fluences, and ſo be able to divert them, as they ſhall come to us either for good or evil, for
+<q>
+                     <l>The Stars and Planets, often ſmile and lowr,</l>
+                     <l>They heal and hurt poor Mortals every hour.</l>
+                  </q>
+               </p>
+               <p>In earneſt I cannot beleeve Mr. <hi>Bs.</hi> fan<g ref="char:EOLhyphen"/>cy here, I rather conclude, that God is more clearer ſeen in a Star,
+<note place="margin">1 <hi>Cor.</hi> 15.</note> which he ſays is evil to name, than in ſuch a dark Lan<g ref="char:EOLhyphen"/>thorn as he is, for the Stars are glorious, and ſo is that Art which diſcovers them: but <hi>Scientia non habet inimicum <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi>
+               </p>
+            </div>
+            <div n="4" type="part">
+               <pb n="35" facs="tcp:119792:37"/>
+               <head>The fourth part of his Reaſon examined.</head>
+               <p>NOw my Antagoniſt layes the Axe to the root of the Tree, queſtioning the body of the Art, feigning Aſtrology to be the Father of his innumerous rout of Er<g ref="char:EOLhyphen"/>rors, the Cabal of that Chriſtian Science is nothing but Heatheniſm and Idolatry, <hi>Ipſe dixit,</hi> but brings neither Scripture (truly opened) nor reaſon for the proof of his envious aſſertion.</p>
+               <p>The Planets, Motions, Aſpects, Retro<g ref="char:EOLhyphen"/>gradations, and moſt eminent Configura<g ref="char:EOLhyphen"/>tions are nothing to ſo witty a Perſon, ne<g ref="char:EOLhyphen"/>ver conſidering the excellent ſaying, <hi>viz. Omnia propter <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ominem, Homo propter De<g ref="char:EOLhyphen"/>um (i. e.)</hi> All things for Man, and Man for God; if all things are for the uſe of Man, why not Aſtrology, if men uſing it do not transgreſſe their bounds.
+<note place="margin">The truth of Aſtrolo<g ref="char:EOLhyphen"/>gy is evin<g ref="char:EOLhyphen"/>ced by ex<g ref="char:EOLhyphen"/>perience.</note>
+               </p>
+               <p>But by reaſon of my promiſe I forbear farther proof, and refer the Reader to Mr. <hi>Li<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ies</hi> introduction, where he may find, Anſwers in experiments, to more learned objections than Mr. <hi>B.</hi> is able to bring, Experience being a principal Maſter, and fitter to be truſted than all the tradition fancies in the world, which makes me re<g ref="char:EOLhyphen"/>ſolve to beleeve ſuch a Maſter in Aſtrolo<g ref="char:EOLhyphen"/>gy, before all Mr <hi>Bs.</hi> fancies in his pre<g ref="char:EOLhyphen"/>tended Divinity.</p>
+               <p>For in the grounds of Aſtrology, I find
+<pb n="36" facs="tcp:119792:38"/>a reaſon, why ſuch things are, but no ſuch in Mr. <hi>Bs.</hi> traditional Divinity obje<g ref="char:EOLhyphen"/>ction.</p>
+               <p>What's the reaſon a ground cannot be produced in Divinity as well as Aſtrology, ſeeing both are alike traditional? anſwer firſt Negatively,</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Tis not becauſe Divinity is inſufficient, no, for there is a power ſufficient in Di<g ref="char:EOLhyphen"/>vinity, (and in ſome Divines) though Mr. <hi>B.</hi> in this point be too weak.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, the main cauſe that reaſon is ſo hoodwinkt in Divinity, above what 'tis in Aſtrology, is covetouſneſſe, which makes Divinity ſold at a dear price (which ought to be ſold without price) and they that cannot buy it,
+<note place="margin">
+                     <hi>Eſa.</hi> 57.</note> muſt not have it; ſo that by this Argument, 'tis none but rich men muſt goe to Heaven, and poor men ſomewhere elſe, when Chriſt diſcuſſed the matter 'twas otherwiſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> If Divines (as we call them) were ſo honeſt as Aſtrologers, what need we a Tutor in Divinity, any more than in A<g ref="char:EOLhyphen"/>ſtrology? (would but Parents do their parts) oh Divinity is a hard thing (ſay they) and not eaſily learned, when in<g ref="char:EOLhyphen"/>deed there is more intricacy in the other, <hi>viz.</hi> Aſtrology; but if Mr. <hi>B.</hi> and his aſ<g ref="char:EOLhyphen"/>ſociates had not ſomething to ſay, how ſhould they maintain their <hi>Diana</hi> whom they worſhip, <hi>viz.</hi> Tithes: Pardon (good Reader) this by-talk, I deſcend.</p>
+            </div>
+            <div n="5" type="part">
+               <pb n="37" facs="tcp:119792:38"/>
+               <head>The fifth part of his Reaſon examined.</head>
+               <p>A Spirit, ſaith Mr. <hi>B.</hi>
+                  <note n="*" place="margin">The Prieſt is guilty of the ſin of lying, the Lord for<g ref="char:EOLhyphen"/>give him.</note> is required, and nothing is to be done in Aſtrology without it: What he means by this, I can<g ref="char:EOLhyphen"/>not diſcover, unleſs it be ſuch a ſpirit as our Pharaſaical Prieſts require in their pro<g ref="char:EOLhyphen"/>ſelytes; that by it they may bind them over to an implicit faith, and a blind obedi<g ref="char:EOLhyphen"/>ence, which after they cannot get free from.</p>
+               <p>This might have been ranked among his Paſſions very well, for the reaſon it hath in it, for Aſtrology diſowns ſuch ty<g ref="char:EOLhyphen"/>ranny; for how many hundreds of diſ<g ref="char:EOLhyphen"/>affected people, do daily make their ad<g ref="char:EOLhyphen"/>dreſſes to Aſtrologers for ſeveral things of contrary qualities? yet the Aſtrologers va<g ref="char:EOLhyphen"/>lue not the ſpirits of the people.</p>
+               <p>For have not they, think you M. <hi>B.</hi> a deſire to follow their ſenſitive appetite, ge<g ref="char:EOLhyphen"/>nerally more than they have to be guided by ſound reaſon? This conſidered, the ar<g ref="char:EOLhyphen"/>tiſt need not value what ſpirit his Clyent is of, ſo he be not of ſo baſe a ſpirit as to be<g ref="char:EOLhyphen"/>ly him when he is gon from him. Again Sir, you muſt know Aſtrologers will not main<g ref="char:EOLhyphen"/>tain any thing oraculous, or poſitive; for that were to robb, God of his perfection;
+<note place="margin">— <hi>Scorus</hi> 2 <hi>Sent. Diſt.</hi> 4.</note> but what ſays <hi>Scotus, Aſtra inclinant volun<g ref="char:EOLhyphen"/>tatem, in nullo tamen neceſſitatur, accidit ta<g ref="char:EOLhyphen"/>men
+<pb n="38" facs="tcp:119792:39"/>frequenter Aſtrologos vera prognoſticare de moribus hominum, propter pronitatem eo<g ref="char:EOLhyphen"/>orum, ad ſequendum appetitivum ſenſitivum, (i. e.)</hi> The Stars (ſaith he) incline the will, but in no wiſe neceſſitate it, frequent<g ref="char:EOLhyphen"/>ly it comes to paſs that Aſtrologers fortell truths concerning the manner of men, by reaſon of their proneſſe to follow their ſen<g ref="char:EOLhyphen"/>ſitive appetite. Nor are the words of divine
+<note n="*" place="margin">Dr. <hi>Gell Stella No<g ref="char:EOLhyphen"/>va.</hi>
+                  </note> Doctor <hi>Gell</hi> to be diſreſpected, There is (ſaid he) <hi>id Bruti</hi> in men, that they live ſo much by ſence, that 'tis almoſt a ſtrange thing the Aſtrologer ſhould predict falſe: Here's no enjoyning a ſpirit at all; This is another of M. <hi>B's</hi> ſpurious brats, which he would father upon Aſtrology: an exam<g ref="char:EOLhyphen"/>ple in Aſtrology will prove this ſo ſilly an abſurdity; that 'twill be a ſhame for a Prieſt to own, which example you ſhall find annexed to the latter end of my Book.</p>
+            </div>
+            <div n="6" type="part">
+               <head>The ſixth part of his Reaſon examined.</head>
+               <p>THe Pamphleter keeps a hideous noiſe, like the clattering of empty pitchers, about the powers of the air: he muſt and will have a diſtinction between the powers of the air, and Gods powers, although the powers of God be like him, <hi>viz.</hi> Omni-preſent. But admit of this nicety, <hi>viz.</hi>
+                  <pb n="39" facs="tcp:119792:39"/>that the Devil governs the powers of the air, and that God and the Devil have their powers diſtinct, and oppoſing one a<g ref="char:EOLhyphen"/>nother, are they ſo much out of man, as in him? no ſuch thing, but my Antagoniſt having ſtudied the Macrocoſm ſo much, hath left the Microcoſm unſtudied; ſo that he may well ſay, I have done thoſe things I ought not to have done, and left undone thoſe things I ought to have done.</p>
+               <p>I am perſwaded God governs the world by harmony, and not confuſion; but 'tis the Element of air he carps at, and ſaith, (God doth not, but) Satan doth direct
+<note n="*" place="margin">That's the aiery powers.</note> them; which cannot enter in my be<g ref="char:EOLhyphen"/>lief: for I reſt confident that that pow<g ref="char:EOLhyphen"/>er which rules in heaven and earth, rules in air alſo; for if God be Om<g ref="char:EOLhyphen"/>ni-preſent, his power muſt be ſo too, elſe his power muſt be cut off, and if you take away his power, you may as well take away him; for every thing, both viſible, and inviſible, is ſupported by power: but this being ſo orthodoxal a Tenet, there is none but Madmen
+<note n="*" place="margin">
+                     <hi>My An<g ref="char:EOLhyphen"/>tagoniſt is hood<g ref="char:EOLhyphen"/>wink'd, &amp;</hi> Ariſtotle <hi>will not help him.</hi>
+                  </note> will deny it. Why ſhould any one limit Gods power, and make it diſtinct from him, when as 'tis clear there is no place empty of God, ſee <hi>Pſal.</hi> 139. <hi>Job</hi> ſaith, God hangeth the Earth upon nothing. I believe tis a truth to man generally, becauſe tis a paradox to him: but really the earth, as the Heavens, is hanged upon the power of God; this be<g ref="char:EOLhyphen"/>ing as nothing in the eſteem of ſome men. But again, This Earth, as 'tis hang'd up<g ref="char:EOLhyphen"/>on
+<pb n="40" facs="tcp:119792:40"/>nothing, could not exiſt without the power of God in the other Elements, for all the other are as correſpondents with it; the Water that refreſhes its thirſty jawes, the Fire that doth warm its benumm'd limbs, and the Air doth gently breath up<g ref="char:EOLhyphen"/>on it; this Element of the Air is the ſur<g ref="char:EOLhyphen"/>rounder of the Earth, and one power go<g ref="char:EOLhyphen"/>verns both; for, as 'tis impoſſible for Mr. <hi>B.</hi> to live without air, ſo 'tis impoſſible to make theſe Separatiſts.</p>
+               <p>Let Mr. B. but open his mouth, 'twill be full of air preſently, his head was full of nothing elſe when he writ againſt Aſtrolo<g ref="char:EOLhyphen"/>gy, there's no ſuch jarring in the Ele<g ref="char:EOLhyphen"/>ments, as is among
+<note n="*" place="margin">
+                     <hi>Which made Mr.</hi> Erbury <hi>in his late Diſpute in</hi> Lumbard-ſtreet <hi>con<g ref="char:EOLhyphen"/>clude them Beasts; from which concluſion I called my Book,</hi> Ani<g ref="char:EOLhyphen"/>mal Cor<g ref="char:EOLhyphen"/>nutum, <hi>it being ſo infrequent, a thing in</hi> England, <hi>to ſee a Beaſt without Horns.</hi>
+                  </note> Clergy-men, let Mr. <hi>B.</hi> ſay what he will of them, I really be<g ref="char:EOLhyphen"/>lieve Mr. <hi>B.</hi> wanted air, when he urged this whimſey for reaſon, he was almoſt ſmothered with Envy's ſoultry heat, and the ſweet air of Charity was abſent. What ſhall I ſay to this Univerſity Weather<g ref="char:EOLhyphen"/>cock? even this, Gods power is not to be raſhly dealt withall; neither is foo<g ref="char:EOLhyphen"/>liſhly to be ſeparated from God; for
+<q>
+                     <l>To make God and his powers twain,</l>
+                     <l>Bold perſon, you attempt in vain.</l>
+                  </q>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="41" facs="tcp:119792:40"/>
+               <head>The laſt part of his Reaſon examined.</head>
+               <p>AStrologies antiquity is queſtioned now by the Antagoniſt, he is reſolved now to cut it up by the roots, affirming it to have beginning but in <hi>Nebuchadnezars</hi> days.</p>
+               <p>But Sir, I would have you know, A<g ref="char:EOLhyphen"/>ſtrology is of a more longer and ſtronger growth, and will not be ſo eaſily cut down. That Aſtrology began but in <hi>Ne<g ref="char:EOLhyphen"/>buchadnezzars</hi> days is falſe, and all Wri<g ref="char:EOLhyphen"/>ters that do write any thing of this Sub<g ref="char:EOLhyphen"/>ject contradict it; for
+<note n="*" place="margin">
+                     <hi>Though Mr.</hi> Ga<g ref="char:EOLhyphen"/>taker <hi>ſlanderou<g ref="char:EOLhyphen"/>ſly calls him coun<g ref="char:EOLhyphen"/>terfeit.</hi>
+                  </note> 
+                  <hi>Hermes</hi> (an anti<g ref="char:EOLhyphen"/>ent Philoſopher) a man long before <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> (therefore longer before <hi>Nebuchadnez<g ref="char:EOLhyphen"/>zer</hi>) was an admirable proficient in the Sciences of Aſtrology: this is enough to refute his falacy; but <hi>Joſephus</hi> reports,
+<note place="margin">
+                     <hi>Joſephus lib.</hi> 1. <hi>ch.</hi> 3. <hi>de An<g ref="char:EOLhyphen"/>tiq. Jud.</hi>
+                  </note> that <hi>Abraham</hi> the Father of the Faithful inſtructed the <hi>Aegyptians</hi> in this Science of the Stars, that they became excellent therein: The ſame <hi>Joſephus</hi> reports, how the Sons of <hi>Seth</hi> invented this Science of the Stars, and that it might not be kept from ſucceeding ages, they made two pillars, one of Braſſe, and the other of brick, to the end it might be preſerved from the violent Waves of the Flood, that
+<pb n="42" facs="tcp:119792:41"/>was to come, that this famous Art (or Science) of the Stars might not periſh, to which Divine <hi>Dubartus</hi> ſeems to allude, when he ſung.
+<q>
+                     <l>
+                        <hi>Phalec</hi> and <hi>Heber,</hi> as they wandred, fand</l>
+                     <l>A huge high pillar which upright did ſtand.</l>
+                     <l>And afterward another nigh as great,</l>
+                     <l>But not ſo ſtrong, ſo ſtately, nor ſo neat.</l>
+                     <l>For on the flowry ſield it lay all flat,</l>
+                     <l>Built but of Brick, of ruſty Tiles, or Slat:</l>
+                     <l>Whereas the firſt was builded fair and ſtrong</l>
+                     <l>Of Jasper ſmooth, and Marble laſting long.</l>
+                  </q>
+               </p>
+               <p>Any one may ſee now how this Gentle<g ref="char:EOLhyphen"/>man hath launched into the lake of Lyars, for Aſtrology is more honourable, more antient than his envy could report it, nay it was ſo honourable in old time, none were created Prieſts without it, none ſo honourable with their Kings as they; while theſe Arts flouriſh'd, the World was like a little Heaven, Kings (which of later years have become vicious) were then virtuous by their ſublimer ſtudies; in thoſe days all adored the magnitude of their Creator, and the God of Heaven was admired, and worſhipped in the Or<g ref="char:EOLhyphen"/>ders of the Heavens; but ſince the Prieſts have ruled the roſt, there have as many ways been taught to Heaven, as Taylors have found faſhions to ſet forth Womens bodies. Here you ſee now that in the old time, no Art was in ſuch eſteem as this one was. In the beginning of the glori<g ref="char:EOLhyphen"/>ous Goſpol of our Lord Jeſus, the Wiſe<g ref="char:EOLhyphen"/>men of the Eaſt came to Chriſt by a Star,
+<pb n="43" facs="tcp:119792:41"/>whereupon <hi>Gregory</hi> the Great ſays, <hi>Deuc accommodatè ad eorum ſcientiam docuit, ut qui in ſtellarum obſorvatione verſabantur, ex ſtellis Chriſtum diſcerent, (i.e.)</hi> Very fitly did God enable the knowledge of thoſe wiſe men, that they ſhould learn Chriſt from the Stars, who were verſed in the ob<g ref="char:EOLhyphen"/>ſervation of them.</p>
+               <p>If all ages have honoured this Science, let not us be Baſtards, and diſhonour the Art, leſt after-generations curſe us, and find us to be the unworthieſt of all man<g ref="char:EOLhyphen"/>kind. Did not <hi>Adam</hi> loſe enough? ſhall we ſtill fill up the meaſure of our Fathers iniquities? No, let us rather by this Sci<g ref="char:EOLhyphen"/>ence of the Stars, find out the way to the bright and morning Star, not ♀ <hi>Venus,</hi> but <hi>Jeſus,</hi> where I could willingly meet my Antagoniſt, were the time come; till then I leave him; deſiring him, as he pre<g ref="char:EOLhyphen"/>tends to Saintſhip, to clenſe his heart of all carnality, and then will his ſpiritual eye be opened in him, ſo that he will ſee the Star of life drawing neer unto us in the book of the Creatures, as well as the Scriptures. But I conclude. I ſhall only make good my promiſe, and inſert an Aſtro<g ref="char:EOLhyphen"/>logical example; and foraſmuch as his ſcoff was concerning a woman with Child, I in<g ref="char:EOLhyphen"/>ſert an example equivalent.</p>
+               <closer>Deo Gloria.</closer>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:119792:42"/>
+               <p>NOw I come to make good my pro<g ref="char:EOLhyphen"/>miſe, the Example promiſed is this following Aſtrological figure, &amp;c.</p>
+               <figure>
+                  <figDesc>astrological figure</figDesc>
+                  <p>
+                     <hi>If the querent was con<g ref="char:EOLhyphen"/>ceived of a male or female.</hi>
+                  </p>
+                  <p>
+                     <hi>December</hi> 1651.</p>
+                  <p>28. D. 20. H. 40′ P.M.
+<list>
+                        <item>Die.</item>
+                        <item>Dom.</item>
+                        <item>Hor.</item>
+                     </list> 
+                     <g ref="char:Moon">☽</g> ♄</p>
+                  <p>
+                     <g ref="char:Moon">☽</g> a ⚹ ♀ ad ⚹ ♂ ☌ ♃:</p>
+               </figure>
+               <p>Accidentally hapning in the Company of a woman (on the 29 day of <hi>December</hi> in the morning) who being no ſmall kin to unbelieving <hi>Thomas,</hi> in a ſcoffing manner was I asked by her the forementioned que<g ref="char:EOLhyphen"/>ſtion, ſhe knowing me to be a lover of the noble Science of Aſtrology; whereupon I
+<pb n="45" facs="tcp:119792:42"/>took ſome notice of her propoſal, and con<g ref="char:EOLhyphen"/>ſidered the poſition of heaven, which fell out as aforeſaid, and finding my figure ra<g ref="char:EOLhyphen"/>dical, and exactly correſponding with the moles and ſcars of her body, I adventured judgement, and told her ſhe was concei<g ref="char:EOLhyphen"/>ved of a boy; Well, ſhe derided me for my pains, and thought I had ſpoke at ran<g ref="char:EOLhyphen"/>dom, as many pretenders now a-days do, ſhe, it ſeems, having buried a girl lately, and a boy living, thought that God and Nature had been enjoyned to have given her a girl for what ſhe loſt; at the length ſhe gave me her judgement, (though not worth a Louſe) That no man was able to tell ſuch a thing as that was, ſhe was con<g ref="char:EOLhyphen"/>fident: I was much more confident, and told her, That a man by a Celeſtial figure might tell much more, being confirm'd my ſelf in ſome experiments I had lately made.</p>
+               <p>Tis no more in Aſtrology than this, the greater number of teſtimonies concurring, and indeed a man of a ſlender capacity, at firſt ſight of ſuch a figure, might reſolve the queſtion abſolutely.</p>
+               <p>I reſolved the doubt by inſpection only, but for ſatisfaction to my ſelf and Readers, I thought it requiſite to draw forth the rea<g ref="char:EOLhyphen"/>ſons according to rules of art, which thus judge.</p>
+               <pb n="46" facs="tcp:119792:43"/>
+               <list>
+                  <head>Evidences of a male Child.</head>
+                  <item>1 <g ref="char:Moon">☽</g> in aſpect to maſculine planers,</item>
+                  <item>2 ♊ the ſign of the fifth, maſculine.</item>
+                  <item>3 ☿ Lord of the fifth, in aſpect to a pla<g ref="char:EOLhyphen"/>net maſculine.</item>
+                  <item>4 ♂ a planet maſculine poſſeſſing the aſ<g ref="char:EOLhyphen"/>cendant.</item>
+                  <item>5 ♒ aſcending maſculine.</item>
+                  <item>6 ♄ Lord of the aſcendant, maſculine.</item>
+                  <item>7 ♄ Lord of the hour.</item>
+                  <item>8 ♄ in a maſculine quarter.</item>
+                  <item>9 <g ref="char:Moon">☽</g> in a houſe maſculine.</item>
+                  <item>10 <g ref="char:Moon">☽</g> in ♐ a ſign maſculine.</item>
+                  <item>11 ☿ Lord of the fift, in a maſculine quart.</item>
+                  <item>12 All the angles and principle houſes of the figure maſculine.</item>
+               </list>
+               <list>
+                  <head>Arguments of a female.</head>
+                  <item>1 ☿ Lord of the fift, his propinquity to ♀ feminine.</item>
+                  <item>2 ☿ Lord of the fift, in a feminine houſe.</item>
+                  <item>3 ☿ in a feminine ſign, <hi>viz.</hi> ♑.</item>
+                  <item>4 <g ref="char:Moon">☽</g> in a quarter feminine.</item>
+                  <item>5 ♄ Lord of the aſcendant and hour, in a houſe feminine.</item>
+               </list>
+               <p>Here you ſee the male teſtimonies are moſt powerful, not only in number, but in operation, and made me confident what I had judged was true; a little time pro<g ref="char:EOLhyphen"/>duced the certainty of my prediction; for it was (not full) four moneths afterward
+<pb n="47" facs="tcp:119792:43"/>that ſhe was (by the help of a Midwife) delivered of a Male-child, which made the Woman (not for want of ignorance) grieve for a Girl very much, but there was no way then to eaſe her grieved Soul, but when ſhe was well to endeavour for ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p>This may give the check to Mr. <hi>Braynes</hi> fiction out of <hi>Euſeb.</hi> and charm him hence<g ref="char:EOLhyphen"/>forward for ſuch inſolency as to adventure to belch forth imprecations againſt an Art which can bring to the teſt (if occaſion were) hundreds of impregnable proofs to aſſert the validity of it. But I retract, the preceding diſcourſe, may better in<g ref="char:EOLhyphen"/>form his Judgement, if he heed the dire<g ref="char:EOLhyphen"/>ctions therein contained.</p>
+               <p>
+                  <hi>Noverint univerſi per praeſentes,</hi> that I write not this for any to think me an Ido<g ref="char:EOLhyphen"/>lizer of that Art, which made me judge thus true, (no I doe not, I hate Idola<g ref="char:EOLhyphen"/>try with a perfect hatred; I wiſh Aſtrolo<g ref="char:EOLhyphen"/>gies Antagoniſts did ſo to, if they did, they would not magnifie one of the Liberal Sci<g ref="char:EOLhyphen"/>ences above another, but they are at pre<g ref="char:EOLhyphen"/>ſent ſo wedded to Idolatry, they cannot but be partial) to return, as before, ſo a<g ref="char:EOLhyphen"/>gain I ſay, I do not Idolize the Art that made me judge thus true; for, <hi>Humanum eſt errare,</hi> but thus, that young Artiſts may not be diſcouraged with the babling of envious Prieſts, which may in ſome mea<g ref="char:EOLhyphen"/>ſure vex the weaker <hi>Tiroes,</hi> for men are more generally led by tradition, than ex<g ref="char:EOLhyphen"/>perience.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
